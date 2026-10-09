@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "ealing",
+    "name": "Ealing Broadway",
+    "zh": "伊靈百老匯",
+    "kind": "first",
+    "area": "西倫敦",
+    "reason": "兼顧倫敦生活、綠地和各方向旅行，是妳的倫敦找房首選。",
+    "life": "先找車站、購物中心、Walpole Park 與 Haven Green 步行生活圈；以車站步行 10–15 分鐘內為目標。",
+    "travel": "Elizabeth line 接 Paddington 去 Bath／Oxford；去 Kent、Cambridge 須到其他倫敦車站轉乘。去 Heathrow 也方便。",
+    "tube": [
+      12.48,
+      45.52
+    ],
+    "geo": [
+      -0.301,
+      51.515
+    ],
+    "budget": "£1,700–1,900／月：找房目標；曾見一房開價 £1,775–1,825，不含帳單。",
+    "source": "https://www.zoopla.co.uk/to-rent/property/1-bedroom/station/tube/ealing-broadway/",
+    "tags": [
+      "Elizabeth",
+      "Central",
+      "District"
+    ]
+  },
+  {
+    "id": "reading",
+    "name": "Reading",
+    "zh": "雷丁",
+    "kind": "first",
+    "area": "倫敦以西",
+    "reason": "偏重省租金與西部旅行時，把它排在第一位；城市活動密度低於倫敦。",
+    "life": "先找 Reading 主站、Forbury Gardens、Abbey Quarter 和市中心東側；步行到站與超市。",
+    "travel": "GWR 往 Paddington；去 Oxford、Bath、Bristol 和 Moreton-in-Marsh 方便。往 Cambridge／Kent 常須經倫敦轉車。",
+    "tube": [
+      3.35,
+      26.6
+    ],
+    "geo": [
+      -0.972,
+      51.455
+    ],
+    "budget": "£1,100–1,550／月：曾查到的整套一房刊登範圍；房源與租期須再確認。",
+    "source": "https://www.zoopla.co.uk/to-rent/flats/1-bedroom/reading/",
+    "tags": [
+      "GWR",
+      "Elizabeth",
+      "西部旅行"
+    ]
+  },
+  {
+    "id": "hammersmith",
+    "name": "Hammersmith",
+    "zh": "漢默史密斯",
+    "kind": "consider",
+    "area": "西倫敦",
+    "reason": "適合重視餐廳、交通與河岸生活的妳；租金和實際房源需比較。",
+    "life": "優先看站旁生活圈與河岸方向；避開直接面向繁忙幹道、噪音明顯的房間。",
+    "travel": "Piccadilly line 可往 Heathrow；市內多線轉乘方便，城際旅行仍需接主要火車站。",
+    "tube": [
+      26.0,
+      51.25
+    ],
+    "geo": [
+      -0.224,
+      51.493
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Piccadilly",
+      "District",
+      "Circle",
+      "H&C"
+    ]
+  },
+  {
+    "id": "chiswick",
+    "name": "Chiswick",
+    "zh": "奇西克",
+    "kind": "consider",
+    "area": "西倫敦",
+    "reason": "偏好住宅感、咖啡店與散步時值得比較；找房要先確認離哪個站最近。",
+    "life": "Chiswick High Road 與 Turnham Green 周邊適合步行生活。圖上以 Chiswick Park 作區域定位，不代表每個房源都靠近它。",
+    "travel": "District line 接倫敦交通；去 Heathrow 選 Piccadilly 路線時需查停站與轉乘。",
+    "tube": [
+      19.4,
+      51.62
+    ],
+    "geo": [
+      -0.267,
+      51.493
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "District",
+      "住宅生活"
+    ]
+  },
+  {
+    "id": "greenwich",
+    "name": "Greenwich 舊城",
+    "zh": "格林威治舊城",
+    "kind": "consider",
+    "area": "東南倫敦",
+    "reason": "適合喜歡市場、公園與河岸散步的妳；跨倫敦往西部旅行較費轉乘。",
+    "life": "找 Greenwich／Cutty Sark 一帶才是舊城、Greenwich Market 和公園生活圈。",
+    "travel": "DLR 接 Bank；National Rail 接 London Bridge 等站。去其他城鎮先確認出發站。",
+    "tube": [
+      63.57,
+      63.48
+    ],
+    "geo": [
+      0.009,
+      51.482
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "DLR",
+      "National Rail",
+      "公園"
+    ]
+  },
+  {
+    "id": "north-greenwich",
+    "name": "North Greenwich／O2",
+    "zh": "北格林威治",
+    "kind": "caution",
+    "area": "東南倫敦",
+    "reason": "可以找新公寓，但若妳想每天走路逛古城、市場，不是優先選擇。",
+    "life": "這裡是 O2 與半島新建案生活圈。想逛 Greenwich 舊城，需要另外搭車或安排較長步行。",
+    "travel": "Jubilee line 方便進市中心；前往 Greenwich 舊城通常需公車等交通銜接。",
+    "tube": [
+      66.67,
+      53.37
+    ],
+    "geo": [
+      0.005,
+      51.501
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Jubilee",
+      "新建案"
+    ]
+  },
+  {
+    "id": "canary",
+    "name": "Canary Wharf",
+    "zh": "金絲雀碼頭",
+    "kind": "consider",
+    "area": "東倫敦",
+    "reason": "適合想要新公寓、商場與亞洲超市的妳；能否壓在租金上限內是關鍵。",
+    "life": "生活重心在商場、新建案與水岸，街區氣氛和傳統倫敦住宅區不同。",
+    "travel": "Elizabeth line 可接 Paddington、Liverpool Street、Farringdon；Jubilee line 接 London Bridge。",
+    "tube": [
+      63.22,
+      52.95
+    ],
+    "geo": [
+      -0.02,
+      51.505
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Elizabeth",
+      "Jubilee",
+      "DLR"
+    ]
+  },
+  {
+    "id": "stratford",
+    "name": "Stratford／East Village",
+    "zh": "斯特拉特福／東村",
+    "kind": "consider",
+    "area": "東倫敦",
+    "reason": "想要商場、奧運公園和交通時可考慮；優先看具體大樓及夜間步行路線。",
+    "life": "East Village 靠 Stratford International；Westfield 靠 Stratford。兩站分開，找房時把實際步行時間算入。",
+    "travel": "Stratford 有 Elizabeth／Central／Jubilee；Stratford International 的 Southeastern 高速火車須另外查票價，不套一般地鐵票價。",
+    "tube": [
+      68.67,
+      34.88
+    ],
+    "geo": [
+      -0.003,
+      51.542
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Elizabeth",
+      "Central",
+      "Jubilee",
+      "公園"
+    ]
+  },
+  {
+    "id": "colindale",
+    "name": "Colindale",
+    "zh": "科林代爾",
+    "kind": "caution",
+    "area": "北倫敦",
+    "reason": "可用來比較預算與新公寓，但不是妳要多商圈、活動豐富時的首選。",
+    "life": "日常購物可以滿足；比較站到家距離，以及是否需要頻繁進市中心才有想逛的地方。",
+    "travel": "Northern line 進倫敦。西部旅行、不同機場出發常須再轉乘。",
+    "tube": [
+      32.83,
+      20.17
+    ],
+    "geo": [
+      -0.25,
+      51.595
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Northern",
+      "Zone 4"
+    ]
+  },
+  {
+    "id": "battersea",
+    "name": "Battersea Power Station",
+    "zh": "巴特西發電站",
+    "kind": "consider",
+    "area": "南倫敦",
+    "reason": "商場、河岸與公園吸引人；能否找到 £2,000 內合適整套房是主要限制。",
+    "life": "圖上定位發電站周邊。Battersea 範圍很大，靠 Clapham Junction 的房子交通方式不同。",
+    "travel": "Northern line 進市中心；去外地要按目的地轉主要火車站。",
+    "tube": [
+      32.74,
+      60.55
+    ],
+    "geo": [
+      -0.142,
+      51.481
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Northern",
+      "Zone 1",
+      "河岸"
+    ]
+  },
+  {
+    "id": "vauxhall",
+    "name": "Vauxhall",
+    "zh": "沃克斯霍爾",
+    "kind": "consider",
+    "area": "南倫敦",
+    "reason": "想要快速進市中心可比較；看房時檢查幹道、鐵路與夜間噪音。",
+    "life": "找距車站近、出入口清楚且夜間回家路線方便的房子；新建案可能超預算。",
+    "travel": "Victoria line；National Rail 可接西南倫敦交通。去其他城鎮仍要看路線。",
+    "tube": [
+      36.3,
+      61.25
+    ],
+    "geo": [
+      -0.123,
+      51.486
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Victoria",
+      "National Rail"
+    ]
+  },
+  {
+    "id": "wembley",
+    "name": "Wembley Park",
+    "zh": "溫布利公園",
+    "kind": "caution",
+    "area": "西北倫敦",
+    "reason": "可比較新公寓與租金，但若常旅行、想要傳統街區生活，不是優先選擇。",
+    "life": "優先看車站步行圈；演唱會、球賽日要評估人潮、噪音和回家動線。Wembley Central 是另一站。",
+    "travel": "Jubilee／Metropolitan line。找房要確認是 Wembley Park 還是 Wembley Central。",
+    "tube": [
+      26.45,
+      24.33
+    ],
+    "geo": [
+      -0.28,
+      51.563
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Jubilee",
+      "Metropolitan",
+      "活動場館"
+    ]
+  },
+  {
+    "id": "richmond",
+    "name": "Richmond",
+    "zh": "里奇蒙",
+    "kind": "consider",
+    "area": "西南倫敦",
+    "reason": "很適合綠地、河岸與散步生活；有預算內整套房時值得納入。",
+    "life": "先看車站與市中心步行圈；去 Richmond Park 還要把房源到公園入口距離算入。",
+    "travel": "District／Mildmay／National Rail；去西部城鎮要依班次安排轉車。",
+    "tube": [
+      12.3,
+      60.13
+    ],
+    "geo": [
+      -0.303,
+      51.461
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "District",
+      "Mildmay",
+      "綠地"
+    ]
+  },
+  {
+    "id": "kew",
+    "name": "Kew Gardens",
+    "zh": "邱園",
+    "kind": "trip",
+    "area": "西南倫敦",
+    "reason": "適合安排植物園一日遊；目前未把它列為妳的優先半年基地。",
+    "life": "住宅區與綠地吸引人，但找房仍要另比較商圈及租金。",
+    "travel": "地鐵圖標的是 Kew Gardens station，從站走到植物園入口。",
+    "tube": [
+      12.28,
+      58.1
+    ],
+    "geo": [
+      -0.285,
+      51.478
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "District",
+      "Mildmay",
+      "書中推薦"
+    ]
+  },
+  {
+    "id": "hampton",
+    "name": "Hampton Court",
+    "zh": "漢普頓宮",
+    "kind": "trip",
+    "area": "倫敦西南近郊",
+    "reason": "安排宮殿與庭園一日遊，不為了單一景點選半年住處。",
+    "life": "不在這張地鐵圖的完整覆蓋範圍，改看地理方位圖。",
+    "travel": "從 London Waterloo 搭 National Rail 往 Hampton Court；查當日班次。",
+    "tube": null,
+    "geo": [
+      -0.342,
+      51.403
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "Waterloo",
+      "書中推薦"
+    ]
+  },
+  {
+    "id": "paddington",
+    "name": "Paddington",
+    "zh": "西部旅行接車站",
+    "kind": "gateway",
+    "area": "倫敦接車站",
+    "reason": "去 Bath、Oxford、Reading 和科茲窩方向時，優先查這裡的列車。",
+    "life": "此標記用來理解旅行交通，不表示建議租在車站旁。",
+    "travel": "Ealing Broadway 可搭 Elizabeth line 接 Paddington；它是接車站標記，不是新的居住區推薦。",
+    "tube": [
+      31.71,
+      43.0
+    ],
+    "geo": [
+      -0.176,
+      51.516
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "GWR",
+      "Elizabeth"
+    ]
+  },
+  {
+    "id": "kings",
+    "name": "King’s Cross／St Pancras",
+    "zh": "北部與 Kent 接車站",
+    "kind": "gateway",
+    "area": "倫敦接車站",
+    "reason": "King’s Cross 接 Cambridge 等方向；St Pancras 接 Canterbury 等高速路線。",
+    "life": "此標記用來理解旅行交通，不表示建議租在車站旁。",
+    "travel": "這兩個相鄰車站的營運路線不同。訂票請選實際出發站；往 Kent 高速列車另查票價。",
+    "tube": [
+      44.13,
+      38.2
+    ],
+    "geo": [
+      -0.124,
+      51.531
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Cambridge",
+      "Kent",
+      "Eurostar"
+    ]
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "zh": "南岸旅行接車站",
+    "kind": "gateway",
+    "area": "倫敦接車站",
+    "reason": "去 Brighton、部分 Kent 與南岸目的地時查這裡的班次。",
+    "life": "此標記用來理解旅行交通，不表示建議租在車站旁。",
+    "travel": "按目的地比較 Victoria、London Bridge、St Pancras 等出發路線。",
+    "tube": [
+      35.73,
+      51.7
+    ],
+    "geo": [
+      -0.144,
+      51.496
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Southern",
+      "Southeastern"
+    ]
+  },
+  {
+    "id": "bridge",
+    "name": "London Bridge",
+    "zh": "南岸與 Kent 接車站",
+    "kind": "gateway",
+    "area": "倫敦接車站",
+    "reason": "Brighton／Kent 等方向可查這裡的班次。",
+    "life": "此標記用來理解旅行交通，不表示建議租在車站旁。",
+    "travel": "Thameslink、Southeastern 與地鐵 Jubilee／Northern 的轉乘點。",
+    "tube": [
+      48.57,
+      51.13
+    ],
+    "geo": [
+      -0.086,
+      51.505
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Thameslink",
+      "Southeastern"
+    ]
+  },
+  {
+    "id": "farringdon",
+    "name": "Farringdon",
+    "zh": "跨倫敦轉乘點",
+    "kind": "gateway",
+    "area": "倫敦接車站",
+    "reason": "Elizabeth line 接 Thameslink 的便利轉乘點。",
+    "life": "此標記用來理解旅行交通，不表示建議租在車站旁。",
+    "travel": "往 Gatwick、Brighton 等目的地可查 Thameslink 路線。",
+    "tube": [
+      50.06,
+      39.75
+    ],
+    "geo": [
+      -0.105,
+      51.52
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Elizabeth",
+      "Thameslink"
+    ]
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool Street",
+    "zh": "東部旅行接車站",
+    "kind": "gateway",
+    "area": "倫敦接車站",
+    "reason": "Cambridge、英格蘭東部與部分機場路線可查這裡。",
+    "life": "此標記用來理解旅行交通，不表示建議租在車站旁。",
+    "travel": "Ealing Broadway 可搭 Elizabeth line 到站，接 Greater Anglia 等列車。",
+    "tube": [
+      55.67,
+      40.47
+    ],
+    "geo": [
+      -0.082,
+      51.518
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Elizabeth",
+      "Greater Anglia"
+    ]
+  },
+  {
+    "id": "heathrow",
+    "name": "Heathrow Airport",
+    "zh": "希斯洛機場",
+    "kind": "gateway",
+    "area": "機場",
+    "reason": "比較 Ealing／Reading 住處時的重要機場。",
+    "life": "選班機後再查航廈與出發時間。",
+    "travel": "Ealing 可查 Elizabeth／Piccadilly 路線；Reading 可查 RailAir 或 Elizabeth line 轉乘。",
+    "tube": [
+      4.3,
+      58.2
+    ],
+    "geo": [
+      -0.454,
+      51.47
+    ],
+    "budget": "",
+    "source": "https://www.heathrow.com/transport-and-directions/by-rail-or-train/reading",
+    "tags": [
+      "機場"
+    ]
+  },
+  {
+    "id": "gatwick",
+    "name": "Gatwick Airport",
+    "zh": "蓋特威克機場",
+    "kind": "gateway",
+    "area": "機場",
+    "reason": "南倫敦及 Brighton 方向的重要機場。",
+    "life": "圖上只有朝 Gatwick 方向的指示，機場位置改看地理方位圖。",
+    "travel": "可查 Thameslink 或 Southern，按住處與航班選路線。",
+    "tube": null,
+    "geo": [
+      -0.182,
+      51.154
+    ],
+    "budget": "",
+    "source": "https://www.gatwickairport.com/to-and-from/rail.html",
+    "tags": [
+      "機場"
+    ]
+  },
+  {
+    "id": "canterbury",
+    "name": "Canterbury",
+    "zh": "坎特伯里",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "大教堂、古城街道、河岸、咖啡店。",
+    "life": "古城日常機能足夠，但商圈／活動較少，往西部旅行較繞。",
+    "travel": "一日遊；加 Whitstable 建議兩天一夜。 St Pancras → Canterbury West 高速列車，官方約 54 分鐘；另加接車、候車與步行。",
+    "tube": null,
+    "geo": [
+      1.079,
+      51.28
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "whitstable",
+    "name": "Whitstable",
+    "zh": "惠特斯特布爾",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "生蠔、海鮮、港口與海邊小店。",
+    "life": "適合短住；不優先作為妳的半年基地。",
+    "travel": "一日遊，可與 Canterbury 組合。 查 Victoria／St Pancras 往 Whitstable 的班次。",
+    "tube": null,
+    "geo": [
+      1.025,
+      51.36
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "brighton",
+    "name": "Brighton",
+    "zh": "布萊頓",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "海濱、The Lanes、餐廳和藝文活動。",
+    "life": "這份旅行清單中較有熱鬧城市生活；往西部與北部常需轉車。",
+    "travel": "一日遊或住一晚。 查 Victoria／London Bridge／Thameslink 路線。",
+    "tube": null,
+    "geo": [
+      -0.14,
+      50.823
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "lewes",
+    "name": "Lewes",
+    "zh": "路易斯",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "古董店、歷史街道、城堡。",
+    "life": "商圈規模與交通選擇不太符合妳的半年需求。",
+    "travel": "一日遊，可配 Brighton。 查 Victoria 出發的 Southern；也可從 Brighton 接車。",
+    "tube": null,
+    "geo": [
+      -0.008,
+      50.874
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "rye",
+    "name": "Rye",
+    "zh": "萊伊",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "古街、老屋與慢步調。",
+    "life": "適合慢旅行，跨區旅行基地較不方便。",
+    "travel": "與 Hastings 安排兩天一夜。 可查 St Pancras → Ashford International → Rye；轉車要留時間。",
+    "tube": null,
+    "geo": [
+      0.734,
+      50.951
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "hastings",
+    "name": "Hastings",
+    "zh": "黑斯廷斯",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "海邊、舊城與港口。",
+    "life": "適合短住看海，不優先作為妳的固定基地。",
+    "travel": "與 Rye 安排兩天一夜。 可查 Charing Cross／London Bridge 等往 Hastings 班次。",
+    "tube": null,
+    "geo": [
+      0.573,
+      50.855
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "folkestone",
+    "name": "Folkestone",
+    "zh": "福克斯通",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "創意街區、港口與海濱。",
+    "life": "可保留旅遊清單，半年居住優先度較低。",
+    "travel": "一日遊或與 Dover 住一晚。 查 St Pancras 高速列車到 Folkestone Central。",
+    "tube": null,
+    "geo": [
+      1.17,
+      51.08
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "dover",
+    "name": "Dover",
+    "zh": "多佛",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "城堡、白崖與海岸。",
+    "life": "景點與交通需分開規劃，不為了白崖選固定基地。",
+    "travel": "一日遊；白崖另查接駁及步行。 查 St Pancras 到 Dover Priory 等路線；白崖不是出站即到。",
+    "tube": null,
+    "geo": [
+      1.313,
+      51.128
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "margate",
+    "name": "Margate",
+    "zh": "馬蓋特",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "海濱、美術館、古著及獨立小店。",
+    "life": "跨區旅行與冬季日常選擇不如倫敦。",
+    "travel": "一日遊或住一晚，建議春季。 查 St Pancras／Victoria 到 Margate 的路線及票價。",
+    "tube": null,
+    "geo": [
+      1.388,
+      51.386
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "eastbourne",
+    "name": "Eastbourne",
+    "zh": "伊斯特本",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "海濱散步、美術館，前往白崖的基地之一。",
+    "life": "日常機能夠用，但往不同方向旅行較費時。",
+    "travel": "白崖健行另留一天。 查 Victoria 等往 Eastbourne 班次，再查海岸公車。",
+    "tube": null,
+    "geo": [
+      0.285,
+      50.769
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "sisters",
+    "name": "Seven Sisters",
+    "zh": "七姐妹白崖",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "白崖、海岸與健行。",
+    "life": "自然景點，作旅行目的地。",
+    "travel": "選天氣合適的一整天，建議春天。 先到 Eastbourne／Seaford，再接公車與步行；不是一個火車站。",
+    "tube": null,
+    "geo": [
+      0.153,
+      50.755
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "southend",
+    "name": "Southend-on-Sea",
+    "zh": "濱海紹森德",
+    "kind": "trip",
+    "area": "倫敦近郊",
+    "reason": "長棧橋、海上小火車與海邊散步。",
+    "life": "可以去玩，不會為了單一景點選半年住處。",
+    "travel": "一日遊即可。 查 Fenchurch Street → Southend Central，或 Liverpool Street → Southend Victoria。",
+    "tube": null,
+    "geo": [
+      0.714,
+      51.538
+    ],
+    "budget": "",
+    "source": "https://www.eslite.com/product/10012122082682926519002",
+    "tags": [
+      "書中推薦",
+      "短住／一日遊"
+    ]
+  },
+  {
+    "id": "cambridge",
+    "name": "Cambridge",
+    "zh": "劍橋",
+    "kind": "trip",
+    "area": "英國旅行",
+    "reason": "學院、康河、博物館與書店；一日遊或住一晚。",
+    "life": "日常生活方便，但商圈集中；往西部和 Kent 要較長轉車。",
+    "travel": "London King’s Cross 或 Liverpool Street 往 Cambridge；選 Cambridge station，再接步行／公車到古城。",
+    "tube": null,
+    "geo": [
+      0.121,
+      52.205
+    ],
+    "budget": "",
+    "source": "https://www.greatnorthernrail.com/",
+    "tags": [
+      "補充目的地"
+    ]
+  },
+  {
+    "id": "bath",
+    "name": "Bath",
+    "zh": "巴斯",
+    "kind": "trip",
+    "area": "英國旅行",
+    "reason": "羅馬浴場、古典建築、咖啡店；推薦兩天一夜。",
+    "life": "很適合散步與短住，去 Bristol 方便；去 Cambridge／Kent 較費時。",
+    "travel": "Paddington → Bath Spa，官方約 1 小時 20 分鐘；Reading 可接往 Bath 的列車。",
+    "tube": null,
+    "geo": [
+      -2.36,
+      51.381
+    ],
+    "budget": "",
+    "source": "https://www.gwr.com/stations-and-destinations/popular-routes/london-to-bath",
+    "tags": [
+      "補充目的地",
+      "西部旅行"
+    ]
+  },
+  {
+    "id": "oxford",
+    "name": "Oxford",
+    "zh": "牛津",
+    "kind": "trip",
+    "area": "英國旅行",
+    "reason": "學院、博物館、書店與 Covered Market；一日遊或住一晚。",
+    "life": "可作居住候選，但租金未必比 Reading 省，商圈密度低於倫敦。",
+    "travel": "查 Reading／Paddington → Oxford；倫敦也可比較 Marylebone 的路線。",
+    "tube": null,
+    "geo": [
+      -1.258,
+      51.752
+    ],
+    "budget": "",
+    "source": "https://www.gwr.com/",
+    "tags": [
+      "補充目的地",
+      "西部旅行"
+    ]
+  },
+  {
+    "id": "bristol",
+    "name": "Bristol",
+    "zh": "布里斯托",
+    "kind": "trip",
+    "area": "英國旅行",
+    "reason": "港區、餐廳、獨立商店；適合住一晚並與 Bath 組合。",
+    "life": "這裡曾在妳的交通問題中出現，未列為這次優先找房城市。",
+    "travel": "Paddington／Reading → Bristol Temple Meads，再接市內交通。",
+    "tube": null,
+    "geo": [
+      -2.588,
+      51.454
+    ],
+    "budget": "",
+    "source": "https://www.gwr.com/",
+    "tags": [
+      "補充目的地",
+      "西部旅行"
+    ]
+  },
+  {
+    "id": "cotswolds",
+    "name": "Cotswolds",
+    "zh": "科茲窩",
+    "kind": "trip",
+    "area": "科茲窩旅行",
+    "reason": "一大片石造村莊與鄉村區；不是單一城鎮或車站。",
+    "life": "適合兩天一夜以上短住。多商圈和公共交通密度不符合妳的半年居住需求。",
+    "travel": "不開車：火車到 Moreton-in-Marsh，再轉公車或參加當地團。各村莊不要套同一段火車時間。",
+    "tube": null,
+    "geo": [
+      -1.73,
+      51.91
+    ],
+    "budget": "",
+    "source": "https://www.gwr.com/stations-and-destinations/destinations/trains-to-the-cotswolds",
+    "tags": [
+      "補充目的地",
+      "西部旅行",
+      "科茲窩"
+    ]
+  },
+  {
+    "id": "moreton",
+    "name": "Moreton-in-Marsh",
+    "zh": "科茲窩短住基地",
+    "kind": "trip",
+    "area": "科茲窩旅行",
+    "reason": "有火車站，可接周邊村莊；不開車短住首選。",
+    "life": "找車站與主街附近旅宿；不是建議妳在此長租半年。",
+    "travel": "Reading／Paddington 可查直達列車；801 公車接 Stow／Bourton。",
+    "tube": null,
+    "geo": [
+      -1.703,
+      51.99
+    ],
+    "budget": "",
+    "source": "https://www.cotswolds.com/plan/getting-to-the-cotswolds/getting-to-the-cotswolds-by-train-and-bus/",
+    "tags": [
+      "補充目的地",
+      "西部旅行",
+      "科茲窩"
+    ]
+  },
+  {
+    "id": "bourton",
+    "name": "Bourton-on-the-Water",
+    "zh": "水上伯頓",
+    "kind": "trip",
+    "area": "科茲窩旅行",
+    "reason": "小河、石橋、河岸咖啡店；初訪優先。",
+    "life": "留半天慢逛；不優先當半年住處。",
+    "travel": "Moreton 轉 801 公車，官方指南約 30 分鐘；查當日回程班次。",
+    "tube": null,
+    "geo": [
+      -1.757,
+      51.886
+    ],
+    "budget": "",
+    "source": "https://www.cotswolds.com/plan/getting-to-the-cotswolds/getting-to-the-cotswolds-by-train-and-bus/",
+    "tags": [
+      "補充目的地",
+      "西部旅行",
+      "科茲窩"
+    ]
+  },
+  {
+    "id": "stow",
+    "name": "Stow-on-the-Wold",
+    "zh": "科茲窩古董小鎮",
+    "kind": "trip",
+    "area": "科茲窩旅行",
+    "reason": "古董店、石造廣場與老酒吧。",
+    "life": "可與水上伯頓同一天；不優先當半年住處。",
+    "travel": "Moreton 轉 801 公車，官方指南約 20 分鐘。",
+    "tube": null,
+    "geo": [
+      -1.723,
+      51.929
+    ],
+    "budget": "",
+    "source": "https://www.cotswolds.com/plan/getting-to-the-cotswolds/getting-to-the-cotswolds-by-train-and-bus/",
+    "tags": [
+      "補充目的地",
+      "西部旅行",
+      "科茲窩"
+    ]
+  },
+  {
+    "id": "campden",
+    "name": "Chipping Campden",
+    "zh": "奇平坎普登",
+    "kind": "trip",
+    "area": "科茲窩旅行",
+    "reason": "歷史主街、石造建築與鄉村散步。",
+    "life": "半天到一天；公車行程需要先安排。",
+    "travel": "從 Moreton 轉公車；當季路線／時刻表須再查。",
+    "tube": null,
+    "geo": [
+      -1.777,
+      52.05
+    ],
+    "budget": "",
+    "source": "https://www.cotswolds.com/plan/getting-to-the-cotswolds/getting-to-the-cotswolds-by-train-and-bus/",
+    "tags": [
+      "補充目的地",
+      "西部旅行",
+      "科茲窩"
+    ]
+  },
+  {
+    "id": "bibury",
+    "name": "Bibury",
+    "zh": "拜伯里",
+    "kind": "trip",
+    "area": "科茲窩旅行",
+    "reason": "Arlington Row 石造小屋與溪流。",
+    "life": "初訪想一次看多村莊，可選包含 Bibury 的當地團。",
+    "travel": "公車需要另外銜接，不是 Moreton 下車就到。",
+    "tube": null,
+    "geo": [
+      -1.835,
+      51.759
+    ],
+    "budget": "",
+    "source": "https://www.cotswolds.com/plan/getting-to-the-cotswolds/getting-to-the-cotswolds-by-train-and-bus/",
+    "tags": [
+      "補充目的地",
+      "西部旅行",
+      "科茲窩"
+    ]
+  },
+  {
+    "id": "birmingham",
+    "name": "Birmingham",
+    "zh": "伯明罕",
+    "kind": "consider",
+    "area": "其他城市",
+    "reason": "曾討論的城市候選；都市機能完整，但這次倫敦近郊與南英格蘭旅行清單較適合南部基地。",
+    "life": "Edgbaston／Five Ways／Brindleyplace 是妳曾看過房源周邊；要按完整地址確認夜間回家路線與房屋條件。",
+    "travel": "進倫敦查 New Street → Euston；Edgbaston Village、Five Ways、Brindleyplace、Centenary Square 這四個房源列表名稱需區分 tram stop 與 Five Ways railway station。",
+    "tube": null,
+    "geo": [
+      -1.899,
+      52.486
+    ],
+    "budget": "",
+    "source": "https://www.westmidlandsmetro.com/",
+    "tags": [
+      "城市候選",
+      "需另比較"
+    ]
+  },
+  {
+    "id": "manchester",
+    "name": "Manchester",
+    "zh": "曼徹斯特",
+    "kind": "consider",
+    "area": "其他城市",
+    "reason": "曾討論的城市候選；適合城市生活與英格蘭北部旅行，這次南部小鎮行程較遠。",
+    "life": "若選這裡，應把旅行重心改為英格蘭北部；目前不作這次優先找房基地。",
+    "travel": "進倫敦查 Piccadilly → Euston；去 Bath／Canterbury 等要更多旅行時間。",
+    "tube": null,
+    "geo": [
+      -2.245,
+      53.48
+    ],
+    "budget": "",
+    "source": "https://www.avantiwestcoast.co.uk/",
+    "tags": [
+      "城市候選",
+      "北部旅行"
+    ]
+  }
+]
