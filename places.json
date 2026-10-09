@@ -22,6 +22,15 @@
       "Elizabeth",
       "Central",
       "District"
+    ],
+    "safety": "Ealing Broadway 商業核心被警方列為反社會行為重點位置；住宅街與車站出口周邊要分開看。妳仍可優先比較這裡，但避開酒吧正上方、後巷入口，確認晚歸能沿明亮大路走回家。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
     ]
   },
   {
@@ -73,6 +82,15 @@
       "District",
       "Circle",
       "H&C"
+    ],
+    "safety": "優先比較住宅街。避開主要道路、酒吧或夜生活店家正上方的房源；檢查車站到大樓的晚歸路線與入口。這是依妳的居住需求提出的篩選建議，並非整區犯罪排名。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -97,6 +115,15 @@
     "tags": [
       "District",
       "住宅生活"
+    ],
+    "safety": "可優先比較 Chiswick High Road／Turnham Green 附近的住宅街。看屋時確認夜間回家不用穿公園或走偏僻河岸，並查完整地址；住宅感與租金高低都不構成安全保證。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -122,6 +149,15 @@
       "DLR",
       "National Rail",
       "公園"
+    ],
+    "safety": "可優先比較舊城商店與車站附近的住宅。夜間回家應有明亮街道替代穿越公園或河岸的捷徑。Greenwich 舊城與 North Greenwich／O2 是不同生活圈，房源地址要對應妳實際會用的站。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -146,6 +182,15 @@
     "tags": [
       "Jubilee",
       "新建案"
+    ],
+    "safety": "原本「找房非優先」是生活圈與租金取捨，並非認定治安差。O2 活動散場可能有人潮與噪音；檢查無活動時夜間回家是否仍有照明、人流，以及大樓門禁。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -171,6 +216,15 @@
       "Elizabeth",
       "Jubilee",
       "DLR"
+    ],
+    "safety": "Canary Wharf／Wood Wharf 的管理型公寓值得比較；看大樓門禁、入口與晚上從車站回家的路。新建案照片或金融區名稱不能保證安全；河岸散步路與夜間回家路應分開評估。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -197,6 +251,15 @@
       "Central",
       "Jubilee",
       "公園"
+    ],
+    "safety": "警方對 Stratford 商業核心設有專門整治工作。舊商業街一側與 East Village 要逐址比較，不能只看「Stratford」名稱。East Village 管理型公寓可以考慮，但查清車站出口、晚歸路線和門禁；Westfield 的商店竊盜不能直接當作住宅暴力風險。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
     ]
   },
   {
@@ -221,6 +284,15 @@
     "tags": [
       "Northern",
       "Zone 4"
+    ],
+    "safety": "原本「找房非優先」是離市中心與旅行需求的取捨，並非治安黑名單。新公寓可以比較，但要確認門禁、維護、站到入口的照明與人流；不要僅憑新建案照片遠端下訂。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -246,6 +318,15 @@
       "Northern",
       "Zone 1",
       "河岸"
+    ],
+    "safety": "可比較靠商店與車站、入口管理良好的住宅。Battersea Power Station、Battersea Park 和 Clapham Junction 周邊的房源不能只用「Battersea」一個名稱概括。晚上回家要有街道路線，不必穿越公園；查清實際最近的站。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -270,6 +351,15 @@
     "tags": [
       "Victoria",
       "National Rail"
+    ],
+    "safety": "新公寓可逐棟比較。查清是否面向鐵路、主要道路或夜生活店家，以及入口是否位於後巷；不要只因為離大型轉乘站近就省略晚歸路線檢查。這是選房建議，不是整區危險排名。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -295,6 +385,15 @@
       "Jubilee",
       "Metropolitan",
       "活動場館"
+    ],
+    "safety": "警方對 Wembley town centre 設有整治工作；Wembley Park 新公寓、Wembley Central 舊商業街與場館周邊要分開看。圖上以 Wembley Park 定位，不代表犯罪熱點邊界。查活動散場噪音、人潮，以及無活動時的晚歸路線。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
     ]
   },
   {
@@ -320,6 +419,15 @@
       "District",
       "Mildmay",
       "綠地"
+    ],
+    "safety": "可優先比較靠商店與車站的住宅街，但仍查完整地址、大樓入口和門禁。冬季晚上從車站回家應有明亮街道路線，不要依賴穿公園或偏僻河岸；這是需求適配建議，並非零犯罪保證。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -345,6 +453,15 @@
       "District",
       "Mildmay",
       "書中推薦"
+    ],
+    "safety": "白天適合旅行散步；若找附近房源，確認冬季夜間能沿有照明的街道回家，不必穿越公園或河岸捷徑。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -390,6 +507,15 @@
     "tags": [
       "GWR",
       "Elizabeth"
+    ],
+    "safety": "交通樞紐的便利性不等於大樓入口安全。看屋時走完站到門口的路，確認是否有偏僻後巷、橋下或地下通道，以及門禁與公共走廊維護。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -415,6 +541,15 @@
       "Cambridge",
       "Kent",
       "Eurostar"
+    ],
+    "safety": "轉乘與旅行方便，仍要逐址檢查大樓門禁與晚歸路線，避免只看「距車站幾分鐘」。找房不要把商業人流與住宅街的狀況混為一談。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -439,6 +574,15 @@
     "tags": [
       "Southern",
       "Southeastern"
+    ],
+    "safety": "交通方便，但酒吧、旅館、巴士與大型道路周邊的房源，要看實際入口和臥室朝向。優先選門禁良好、晚歸沿明亮街道可到的房子。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -463,6 +607,15 @@
     "tags": [
       "Thameslink",
       "Southeastern"
+    ],
+    "safety": "警方曾在 Borough Market、South Bank、Waterloo 一帶針對手機搶奪與搶劫執行行動。去市場或觀光仍可安排；路邊看導航時留意手機，租屋則另查具體住宅街與入口。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方街頭竊盜行動",
+        "url": "https://news.met.police.uk/news/met-officers-target-phone-thieves-in-friday-night-operation-508705"
+      }
     ]
   },
   {
@@ -487,6 +640,15 @@
     "tags": [
       "Elizabeth",
       "Thameslink"
+    ],
+    "safety": "車站附近適合多方向旅行；若房源靠餐飲夜生活街道，查深夜噪音、後巷入口與晚歸照明。交通便利本身不能保證住宅安全。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -511,6 +673,15 @@
     "tags": [
       "Elizabeth",
       "Greater Anglia"
+    ],
+    "safety": "車站方便，但靠近 Shoreditch 夜生活街道的房源要另外查。避免酒吧夜店正上方與後巷入口，確認大樓門禁及晚歸的大路路線。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
     ]
   },
   {
@@ -1063,6 +1234,831 @@
     "tags": [
       "城市候選",
       "北部旅行"
+    ]
+  },
+  {
+    "id": "soho",
+    "name": "Soho 夜生活街道",
+    "zh": "蘇活",
+    "kind": "caution",
+    "area": "市中心",
+    "reason": "餐廳活動很多，但妳遠端工作與冬季獨住，找房先降低夜生活核心的優先順序。",
+    "life": "避開酒吧／夜店正上方、後巷入口；查深夜噪音與門禁。圖上以 Tottenham Court Road 代表定位。",
+    "travel": "Tottenham Court Road 有 Central、Northern、Elizabeth line；Oxford Street 與 Soho 可步行。",
+    "tube": [
+      41.41,
+      43.0
+    ],
+    "geo": [
+      -0.133,
+      51.513
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Central",
+      "Northern",
+      "Elizabeth"
+    ],
+    "safety": "避開酒吧／夜店正上方、後巷入口；查深夜噪音與門禁。圖上以 Tottenham Court Road 代表定位。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方街頭竊盜行動",
+        "url": "https://news.met.police.uk/news/more-than-185-arrested-in-met-crackdown-on-robbery-and-theft-in-central-london-512703"
+      }
+    ]
+  },
+  {
+    "id": "leicester",
+    "name": "Leicester Square 周邊",
+    "zh": "萊斯特廣場",
+    "kind": "caution",
+    "area": "市中心",
+    "reason": "適合看戲與吃飯；夜生活街道上的房源不是妳的找房首選。",
+    "life": "觀光人潮、晚間噪音與手機失竊風險需要考慮。優先檢查入口與回家路線，不把整個市中心列為危險區。",
+    "travel": "Northern、Piccadilly line；可步行到 Chinatown、Soho。",
+    "tube": [
+      41.31,
+      46.66
+    ],
+    "geo": [
+      -0.128,
+      51.511
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Northern",
+      "Piccadilly"
+    ],
+    "safety": "觀光人潮、晚間噪音與手機失竊風險需要考慮。優先檢查入口與回家路線，不把整個市中心列為危險區。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方街頭竊盜行動",
+        "url": "https://news.met.police.uk/news/more-than-185-arrested-in-met-crackdown-on-robbery-and-theft-in-central-london-512703"
+      }
+    ]
+  },
+  {
+    "id": "piccadilly",
+    "name": "Piccadilly Circus 周邊",
+    "zh": "皮卡迪利圓環",
+    "kind": "caution",
+    "area": "市中心",
+    "reason": "適合逛街與看表演；找房避開夜生活店家正上方。",
+    "life": "昂貴與觀光客多不等於沒有街頭犯罪。查後巷入口、深夜噪音，路邊使用手機時留意周遭。",
+    "travel": "Bakerloo、Piccadilly line；步行接 Regent Street、West End。",
+    "tube": [
+      38.82,
+      47.55
+    ],
+    "geo": [
+      -0.134,
+      51.51
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Bakerloo",
+      "Piccadilly"
+    ],
+    "safety": "昂貴與觀光客多不等於沒有街頭犯罪。查後巷入口、深夜噪音，路邊使用手機時留意周遭。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方街頭竊盜行動",
+        "url": "https://news.met.police.uk/news/more-than-185-arrested-in-met-crackdown-on-robbery-and-theft-in-central-london-512703"
+      }
+    ]
+  },
+  {
+    "id": "finsbury",
+    "name": "Finsbury Park 車站周邊",
+    "zh": "芬斯伯里公園站",
+    "kind": "caution",
+    "area": "北倫敦",
+    "reason": "交通方便，但首次遠端找房時，車站出口周邊先謹慎篩選。",
+    "life": "警方將 Finsbury Park 交通樞紐列為反社會行為重點位置。避開偏僻通道與必須穿公園的晚歸路線；不能據此判定整個 Finsbury Park 都不安全。",
+    "travel": "Victoria、Piccadilly line 與 National Rail；進市中心方便。",
+    "tube": [
+      50.78,
+      27.56
+    ],
+    "geo": [
+      -0.107,
+      51.564
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Victoria",
+      "Piccadilly",
+      "National Rail"
+    ],
+    "safety": "警方將 Finsbury Park 交通樞紐列為反社會行為重點位置。避開偏僻通道與必須穿公園的晚歸路線；不能據此判定整個 Finsbury Park 都不安全。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "wood-green",
+    "name": "Wood Green 商業核心",
+    "zh": "伍德格林",
+    "kind": "caution",
+    "area": "北倫敦",
+    "reason": "商店多、交通方便；首次遠端訂房時降低繁忙商業核心旁房源的優先順序。",
+    "life": "警方設有 Wood Green town centre 整治工作。實際走一次夜間回家路線，查入口、照明與近期警方優先事項。",
+    "travel": "Piccadilly line；往 West End／Heathrow 須按班次查車程。",
+    "tube": [
+      52.15,
+      20.45
+    ],
+    "geo": [
+      -0.109,
+      51.598
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Piccadilly"
+    ],
+    "safety": "警方設有 Wood Green town centre 整治工作。實際走一次夜間回家路線，查入口、照明與近期警方優先事項。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "camden",
+    "name": "Camden Town 夜生活街道",
+    "zh": "肯頓鎮",
+    "kind": "caution",
+    "area": "北倫敦",
+    "reason": "市場、餐廳與表演選擇多；居住時避開夜生活最密集的街道。",
+    "life": "警方對 Camden town centre 設有整治工作。找房優先避開酒吧正上方、後巷入口與深夜噪音；不要把整個 Camden borough 當成危險區。",
+    "travel": "Northern line；步行到市場，城際旅行可接 Euston／King’s Cross。",
+    "tube": [
+      42.14,
+      33.39
+    ],
+    "geo": [
+      -0.142,
+      51.539
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Northern"
+    ],
+    "safety": "警方對 Camden town centre 設有整治工作。找房優先避開酒吧正上方、後巷入口與深夜噪音；不要把整個 Camden borough 當成危險區。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "shoreditch",
+    "name": "Shoreditch 夜生活街道",
+    "zh": "肖迪奇",
+    "kind": "caution",
+    "area": "東倫敦",
+    "reason": "喜歡活動可來玩；遠端工作找房時不優先選夜店旁住宅。",
+    "life": "警方對 Shoreditch 設有 town centre 整治工作。避免酒吧、夜店正上方與後巷入口，查深夜噪音及門禁。",
+    "travel": "圖上以 Shoreditch High Street 定位，搭 Windrush line；步行或接駁 Liverpool Street 須查房源距離。",
+    "tube": [
+      56.84,
+      40.95
+    ],
+    "geo": [
+      -0.075,
+      51.523
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Windrush",
+      "夜生活"
+    ],
+    "safety": "警方對 Shoreditch 設有 town centre 整治工作。避免酒吧、夜店正上方與後巷入口，查深夜噪音及門禁。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "barking",
+    "name": "Barking town centre",
+    "zh": "巴金商業中心",
+    "kind": "caution",
+    "area": "東倫敦",
+    "reason": "找房應逐址查，首次遠端下訂時降低商業核心旁房源的優先順序。",
+    "life": "警方對 Barking town centre 設有整治工作。先查門禁、夜間站到家路線與犯罪類型；不能把整個 Barking & Dagenham borough 一起判定為危險。",
+    "travel": "District、H&C、Suffragette 與 c2c；先比較妳常去目的地的實際車程。",
+    "tube": [
+      75.05,
+      42.43
+    ],
+    "geo": [
+      0.081,
+      51.54
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "District",
+      "H&C",
+      "c2c"
+    ],
+    "safety": "警方對 Barking town centre 設有整治工作。先查門禁、夜間站到家路線與犯罪類型；不能把整個 Barking & Dagenham borough 一起判定為危險。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "lewisham",
+    "name": "Lewisham town centre",
+    "zh": "劉易舍姆商業中心",
+    "kind": "caution",
+    "area": "東南倫敦",
+    "reason": "生活與轉乘方便，但要查大樓入口及周邊街段再租。",
+    "life": "警方對 Lewisham town centre 設有整治工作。大型轉乘站附近不能只看「近車站」；不因便宜就省略門禁與晚歸路線檢查。",
+    "travel": "DLR、National Rail；往倫敦市中心查目的站與轉乘。",
+    "tube": [
+      63.62,
+      67.8
+    ],
+    "geo": [
+      -0.014,
+      51.465
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "DLR",
+      "National Rail"
+    ],
+    "safety": "警方對 Lewisham town centre 設有整治工作。大型轉乘站附近不能只看「近車站」；不因便宜就省略門禁與晚歸路線檢查。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "brixton",
+    "name": "Brixton 車站／Windrush Square",
+    "zh": "布里克斯頓核心",
+    "kind": "caution",
+    "area": "南倫敦",
+    "reason": "餐廳與音樂活動多，但這個核心位置降低妳首次找房的優先順序。",
+    "life": "2026 年 10 月當地警隊仍將 Windrush Square、車站周邊及部分鄰近街道的毒品與反社會行為列為優先處理問題。避開入口受街道干擾的房源，查具體地址；並非整個 Brixton 都危險。",
+    "travel": "Victoria line；市中心方便，也有 National Rail。",
+    "tube": [
+      41.02,
+      67.48
+    ],
+    "geo": [
+      -0.115,
+      51.462
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Victoria",
+      "National Rail"
+    ],
+    "safety": "2026 年 10 月當地警隊仍將 Windrush Square、車站周邊及部分鄰近街道的毒品與反社會行為列為優先處理問題。避開入口受街道干擾的房源，查具體地址；並非整個 Brixton 都危險。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "Brixton 警隊近期優先事項",
+        "url": "https://www.met.police.uk/area/your-area/met/lambeth/brixton-windrush/contact-us/our-priorities"
+      }
+    ]
+  },
+  {
+    "id": "croydon",
+    "name": "Croydon town centre",
+    "zh": "克羅伊登商業中心",
+    "kind": "caution",
+    "area": "南倫敦",
+    "reason": "首次遠端找房時，降低商業核心旁房源的優先順序。",
+    "life": "警方對 Croydon town centre 設有整治工作。逐街查晚歸路線、入口與照明，不把整個 Croydon borough 當作危險區。圖上以 East Croydon 代表定位。",
+    "travel": "East Croydon 有 National Rail 與 Tram；往市中心、Gatwick 查實際班次。",
+    "tube": [
+      60.84,
+      76.13
+    ],
+    "geo": [
+      -0.098,
+      51.375
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "National Rail",
+      "Tram"
+    ],
+    "safety": "警方對 Croydon town centre 設有整治工作。逐街查晚歸路線、入口與照明，不把整個 Croydon borough 當作危險區。圖上以 East Croydon 代表定位。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "shepherds",
+    "name": "Shepherd’s Bush Green 周邊",
+    "zh": "牧羊人叢林綠地周邊",
+    "kind": "caution",
+    "area": "西倫敦",
+    "reason": "購物與交通方便，找房時先仔細篩選車站與綠地周邊入口。",
+    "life": "警方將 Shepherd’s Bush Green 列為反社會行為重點位置。查晚歸是否必須穿綠地、後巷或偏僻通道，住宅街仍需逐址評估。",
+    "travel": "圖上以 Shepherd’s Bush Central line 站定位；附近另有 Mildmay line 與 Shepherd’s Bush Market。",
+    "tube": [
+      27.78,
+      46.34
+    ],
+    "geo": [
+      -0.226,
+      51.505
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Central",
+      "Mildmay",
+      "H&C"
+    ],
+    "safety": "警方將 Shepherd’s Bush Green 列為反社會行為重點位置。查晚歸是否必須穿綠地、後巷或偏僻通道，住宅街仍需逐址評估。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "bloomsbury",
+    "name": "Bloomsbury",
+    "zh": "布魯姆斯伯里",
+    "kind": "consider",
+    "area": "市中心",
+    "reason": "靠博物館、書店與市中心，適合比較住宅街房源；租金可能較高。",
+    "life": "圖上以 Russell Square 代表定位。優先選入口面向有人通行的大路，避開夜生活店家正上方。",
+    "travel": "Piccadilly line；也可步行或轉乘到其他市中心站。",
+    "tube": [
+      45.56,
+      40.57
+    ],
+    "geo": [
+      -0.124,
+      51.523
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Piccadilly"
+    ],
+    "safety": "圖上以 Russell Square 代表定位。優先選入口面向有人通行的大路，避開夜生活店家正上方。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "marylebone",
+    "name": "Marylebone",
+    "zh": "馬里波恩",
+    "kind": "consider",
+    "area": "市中心",
+    "reason": "住宅街、餐廳與商店可兼顧，值得比較；先確認預算。",
+    "life": "圖上以 Marylebone 站定位，不代表全區房源離此站最近。查實際門禁與晚歸路線。",
+    "travel": "Bakerloo、Chiltern Railways；具體房源也可能靠 Baker Street。",
+    "tube": [
+      33.35,
+      36.66
+    ],
+    "geo": [
+      -0.164,
+      51.522
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Bakerloo",
+      "Chiltern"
+    ],
+    "safety": "圖上以 Marylebone 站定位，不代表全區房源離此站最近。查實際門禁與晚歸路線。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "highbury",
+    "name": "Highbury",
+    "zh": "海布里",
+    "kind": "consider",
+    "area": "北倫敦",
+    "reason": "可比較兼顧住宅街、餐廳與交通的房源。",
+    "life": "圖上以 Highbury & Islington 代表定位。查站到家是否有明亮大路，夜間不依賴穿公園捷徑。",
+    "travel": "Victoria、Mildmay、Windrush 與 National Rail；查實際站距。",
+    "tube": [
+      50.54,
+      31.92
+    ],
+    "geo": [
+      -0.104,
+      51.546
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Victoria",
+      "Mildmay",
+      "Windrush"
+    ],
+    "safety": "圖上以 Highbury & Islington 代表定位。查站到家是否有明亮大路，夜間不依賴穿公園捷徑。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "muswell",
+    "name": "Muswell Hill",
+    "zh": "馬斯韋爾山",
+    "kind": "consider",
+    "area": "北倫敦",
+    "reason": "可比較住宅生活，但沒有直接位於商圈的地鐵站；依賴巴士是否符合妳需求要先想清楚。",
+    "life": "原地鐵圖未標此生活圈，點選後切到地理方位。查冬季晚歸的巴士班次與下車後路線。",
+    "travel": "通常搭巴士接地鐵；不要只用最近地鐵站的直線距離估旅行時間。",
+    "tube": null,
+    "geo": [
+      -0.144,
+      51.591
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "巴士接駁",
+      "住宅生活"
+    ],
+    "safety": "原地鐵圖未標此生活圈，點選後切到地理方位。查冬季晚歸的巴士班次與下車後路線。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "hampstead",
+    "name": "Hampstead",
+    "zh": "漢普斯特德",
+    "kind": "consider",
+    "area": "北倫敦",
+    "reason": "咖啡店與綠地生活值得比較，租金與坡路需納入考量。",
+    "life": "查完整地址與入口；冬季晚歸不要依賴穿 Hampstead Heath 的捷徑。",
+    "travel": "Northern line；城際旅行需接主要火車站。",
+    "tube": [
+      38.13,
+      29.49
+    ],
+    "geo": [
+      -0.178,
+      51.557
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Northern",
+      "綠地"
+    ],
+    "safety": "查完整地址與入口；冬季晚歸不要依賴穿 Hampstead Heath 的捷徑。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "wood-wharf",
+    "name": "Wood Wharf",
+    "zh": "伍德碼頭",
+    "kind": "consider",
+    "area": "東倫敦",
+    "reason": "可比較新公寓與商店生活圈；先確認總租金與帳單。",
+    "life": "圖上在 Canary Wharf 周邊作區域定位，並非獨立車站。確認大樓門禁、冬季夜間入口人流、到實際會用車站的路線。",
+    "travel": "步行接 Canary Wharf 的 Jubilee／Elizabeth line 或附近 DLR；距離依大樓。",
+    "tube": [
+      64.36,
+      53.38
+    ],
+    "geo": [
+      -0.014,
+      51.501
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Jubilee",
+      "Elizabeth",
+      "DLR"
+    ],
+    "safety": "圖上在 Canary Wharf 周邊作區域定位，並非獨立車站。確認大樓門禁、冬季夜間入口人流、到實際會用車站的路線。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "east-village",
+    "name": "Stratford East Village",
+    "zh": "史特拉特福東村",
+    "kind": "consider",
+    "area": "東倫敦",
+    "reason": "管理型公寓可逐棟比較；把 East Village 與 Stratford 舊商業街分開看。",
+    "life": "圖上以 Stratford International 定位。新建案不保證安全，查入口、門禁和晚歸路線；附近 Stratford 商業核心有警方整治工作，但不能直接外推到每棟住宅。",
+    "travel": "Stratford International 有 DLR 與 Southeastern 高速列車；高速列車需另查票。Elizabeth／Jubilee／Central 在 Stratford 主站，要計入步行距離。",
+    "tube": [
+      64.36,
+      32.37
+    ],
+    "geo": [
+      -0.009,
+      51.546
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "DLR",
+      "步行接 Stratford"
+    ],
+    "safety": "圖上以 Stratford International 定位。新建案不保證安全，查入口、門禁和晚歸路線；附近 Stratford 商業核心有警方整治工作，但不能直接外推到每棟住宅。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "blackheath",
+    "name": "Blackheath",
+    "zh": "布萊克希斯",
+    "kind": "consider",
+    "area": "東南倫敦",
+    "reason": "可比較偏住宅的生活圈，較適合願意搭 National Rail 的妳。",
+    "life": "原地鐵圖沒有 Blackheath 車站，點選後切到地理方位。查晚歸能沿明亮街道回家，不依賴穿越大片綠地。",
+    "travel": "Blackheath National Rail；進倫敦查目的站與班次。",
+    "tube": null,
+    "geo": [
+      0.009,
+      51.466
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "National Rail",
+      "住宅生活"
+    ],
+    "safety": "原地鐵圖沒有 Blackheath 車站，點選後切到地理方位。查晚歸能沿明亮街道回家，不依賴穿越大片綠地。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "wimbledon",
+    "name": "Wimbledon",
+    "zh": "溫布頓",
+    "kind": "consider",
+    "area": "南倫敦",
+    "reason": "商店、餐廳與多種交通可兼顧，住宅街值得比較。",
+    "life": "確認房源靠 Wimbledon 主站還是更遠的 Wimbledon Village；查夜間路線與門禁。",
+    "travel": "District、National Rail、Tram；依房源與倫敦目的地比較車程。",
+    "tube": [
+      28.08,
+      64.98
+    ],
+    "geo": [
+      -0.206,
+      51.421
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "District",
+      "National Rail",
+      "Tram"
+    ],
+    "safety": "確認房源靠 Wimbledon 主站還是更遠的 Wimbledon Village；查夜間路線與門禁。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "putney",
+    "name": "Putney",
+    "zh": "帕特尼",
+    "kind": "consider",
+    "area": "南倫敦",
+    "reason": "住宅街、商店與河岸生活可比較，符合妳想步行逛街的方向。",
+    "life": "圖上以 East Putney 代表定位；Putney、East Putney、Putney Bridge 是不同站。查實際站到家路線，夜間不依賴偏僻河岸。",
+    "travel": "East Putney／Putney Bridge 搭 District；Putney 火車站搭 National Rail。",
+    "tube": [
+      28.08,
+      60.43
+    ],
+    "geo": [
+      -0.209,
+      51.459
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "District",
+      "National Rail"
+    ],
+    "safety": "圖上以 East Putney 代表定位；Putney、East Putney、Putney Bridge 是不同站。查實際站到家路線，夜間不依賴偏僻河岸。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "wembley-central",
+    "name": "Wembley Central 商業街",
+    "zh": "溫布利中央",
+    "kind": "caution",
+    "area": "西北倫敦",
+    "reason": "需和 Wembley Park 新公寓分開比較，不要僅憑 Wembley 名稱下訂。",
+    "life": "警方對 Wembley town centre 設有整治工作。商業街周邊逐址查入口、人流與晚歸路線；不能把 Wembley Park 直接當成同一個街段。",
+    "travel": "Bakerloo、Lioness 與 National Rail；與 Wembley Park 的 Metropolitan／Jubilee 不同站。",
+    "tube": [
+      24.12,
+      28.84
+    ],
+    "geo": [
+      -0.296,
+      51.552
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "safety": "警方對 Wembley town centre 設有整治工作。商業街周邊逐址查入口、人流與晚歸路線；不能把 Wembley Park 直接當成同一個街段。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方整治計畫",
+        "url": "https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/antisocial-behaviour-plan/antisocial-behaviour-asb-action-plan.pdf"
+      }
+    ]
+  },
+  {
+    "id": "waterloo",
+    "name": "Waterloo／South Bank",
+    "zh": "滑鐵盧與南岸",
+    "kind": "gateway",
+    "area": "市中心",
+    "reason": "觀光與交通方便，找房仍需逐址檢查。",
+    "life": "警方曾在 South Bank、Waterloo、Borough Market 針對手機搶奪與搶劫執行行動。觀光可安排；路邊用手機看導航時留意周遭，住宅入口與晚歸路線另查。",
+    "travel": "Waterloo 有 National Rail、Northern、Bakerloo、Jubilee、Waterloo & City。",
+    "tube": [
+      41.31,
+      54.28
+    ],
+    "geo": [
+      -0.114,
+      51.504
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "National Rail",
+      "Northern",
+      "Jubilee"
+    ],
+    "safety": "警方曾在 South Bank、Waterloo、Borough Market 針對手機搶奪與搶劫執行行動。觀光可安排；路邊用手機看導航時留意周遭，住宅入口與晚歸路線另查。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方街頭竊盜行動",
+        "url": "https://news.met.police.uk/news/met-officers-target-phone-thieves-in-friday-night-operation-508705"
+      }
+    ]
+  },
+  {
+    "id": "borough-market",
+    "name": "Borough Market",
+    "zh": "波羅市場",
+    "kind": "trip",
+    "area": "市中心",
+    "reason": "適合吃飯與觀光；人多與知名度不等於沒有手機失竊風險。",
+    "life": "警方曾在 Borough Market、South Bank、Waterloo 針對手機搶奪與搶劫執行行動。留意手機與隨身物品；不能用觀光街區案件數直接推定附近住宅安全。",
+    "travel": "步行接 London Bridge，搭 Northern、Jubilee、National Rail。",
+    "tube": [
+      50.1,
+      51.78
+    ],
+    "geo": [
+      -0.091,
+      51.505
+    ],
+    "budget": "",
+    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "tags": [
+      "Northern",
+      "Jubilee",
+      "National Rail"
+    ],
+    "safety": "警方曾在 Borough Market、South Bank、Waterloo 針對手機搶奪與搶劫執行行動。留意手機與隨身物品；不能用觀光街區案件數直接推定附近住宅安全。",
+    "safetyFlag": true,
+    "safetyUpdated": "2026-10-09",
+    "safetySources": [
+      {
+        "title": "警方街頭竊盜行動",
+        "url": "https://news.met.police.uk/news/met-officers-target-phone-thieves-in-friday-night-operation-508705"
+      }
     ]
   }
 ]
