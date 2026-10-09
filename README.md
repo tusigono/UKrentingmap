@@ -2,6 +2,10 @@
 
 互動地圖：分類搜尋、縮放拖曳、地點詳情及瀏覽器本機收藏比較。
 
+網站：https://tusigono.github.io/UKrentingmap/
+
+由 GitHub Pages 發布 `main` 分支根目錄；更新並推送後會自動重新發布。
+
 ## 預覽
 
 直接用瀏覽器開啟 `index.html`，或執行 `python3 -m http.server 8000`。
