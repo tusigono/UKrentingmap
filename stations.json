@@ -1,0 +1,10560 @@
+[
+  {
+    "name": "Abbey Road",
+    "geo": [
+      0.003737,
+      51.531926
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        822.56,
+        294.46,
+        16.55,
+        12.72
+      ]
+    ],
+    "id": "station-abbeyroad"
+  },
+  {
+    "name": "Abbey Wood",
+    "geo": [
+      0.121087,
+      51.491284
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        893.38,
+        507.79,
+        16.55,
+        13.0
+      ]
+    ],
+    "id": "station-abbeywood"
+  },
+  {
+    "name": "Acton Central",
+    "geo": [
+      -0.262971,
+      51.508716
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        188.73,
+        367.38,
+        31.58,
+        8.74
+      ]
+    ],
+    "id": "station-actoncentral"
+  },
+  {
+    "name": "Acton Main Line",
+    "geo": [
+      -0.266756,
+      51.51718
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        197.94,
+        301.59,
+        22.74,
+        12.79
+      ]
+    ],
+    "id": "station-actonmainline"
+  },
+  {
+    "name": "Acton Town",
+    "geo": [
+      -0.280462,
+      51.503057
+    ],
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        168.98,
+        387.0,
+        15.75,
+        12.79
+      ]
+    ],
+    "id": "station-actontown"
+  },
+  {
+    "name": "Addington Village",
+    "geo": [
+      -0.032694,
+      51.356241
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        788.35,
+        657.31,
+        38.9,
+        8.74
+      ]
+    ],
+    "id": "station-addingtonvillage"
+  },
+  {
+    "name": "Addiscombe",
+    "geo": [
+      -0.073242,
+      51.37981
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        809.96,
+        617.76,
+        28.31,
+        8.74
+      ]
+    ],
+    "id": "station-addiscombe"
+  },
+  {
+    "name": "Aldgate",
+    "geo": [
+      -0.075689,
+      51.514246
+    ],
+    "lines": [
+      "Circle",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        618.3,
+        337.65,
+        19.15,
+        8.74
+      ]
+    ],
+    "id": "station-aldgate"
+  },
+  {
+    "name": "Aldgate East",
+    "geo": [
+      -0.072384,
+      51.515037
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        656.98,
+        328.36,
+        19.15,
+        12.72
+      ]
+    ],
+    "id": "station-aldgateeast"
+  },
+  {
+    "name": "All Saints",
+    "geo": [
+      -0.013135,
+      51.511
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        759.1,
+        361.67,
+        22.46,
+        8.74
+      ]
+    ],
+    "id": "station-allsaints"
+  },
+  {
+    "name": "Alperton",
+    "geo": [
+      -0.29961,
+      51.540627
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        168.7,
+        254.92,
+        21.57,
+        8.74
+      ]
+    ],
+    "id": "station-alperton"
+  },
+  {
+    "name": "Amersham",
+    "geo": [
+      -0.607714,
+      51.674126
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        34.26,
+        84.17,
+        25.28,
+        8.74
+      ]
+    ],
+    "id": "station-amersham"
+  },
+  {
+    "name": "Ampere Way",
+    "geo": [
+      -0.123654,
+      51.382238
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        565.46,
+        630.99,
+        19.58,
+        12.88
+      ]
+    ],
+    "id": "station-ampereway"
+  },
+  {
+    "name": "Anerley",
+    "geo": [
+      -0.065886,
+      51.412153
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        678.66,
+        558.86,
+        19.38,
+        8.74
+      ]
+    ],
+    "id": "station-anerley"
+  },
+  {
+    "name": "Angel",
+    "geo": [
+      -0.10635,
+      51.53184
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        555.85,
+        280.65,
+        15.22,
+        8.74
+      ]
+    ],
+    "id": "station-angel"
+  },
+  {
+    "name": "Archway",
+    "geo": [
+      -0.134819,
+      51.565478
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        504.91,
+        164.79,
+        21.27,
+        8.74
+      ]
+    ],
+    "id": "station-archway"
+  },
+  {
+    "name": "Arena",
+    "geo": [
+      -0.058347,
+      51.391525
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        838.24,
+        589.59,
+        15.51,
+        8.74
+      ]
+    ],
+    "id": "station-arena"
+  },
+  {
+    "name": "Arnos Grove",
+    "geo": [
+      -0.133062,
+      51.616446
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        590.9,
+        97.79,
+        28.62,
+        8.74
+      ]
+    ],
+    "id": "station-arnosgrove"
+  },
+  {
+    "name": "Arsenal",
+    "geo": [
+      -0.107457,
+      51.558655
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        575.67,
+        196.56,
+        18.88,
+        8.74
+      ]
+    ],
+    "id": "station-arsenal"
+  },
+  {
+    "name": "Avenue Road",
+    "geo": [
+      -0.049476,
+      51.4068
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        896.93,
+        570.41,
+        18.64,
+        13.01
+      ]
+    ],
+    "id": "station-avenueroad"
+  },
+  {
+    "name": "Baker Street",
+    "geo": [
+      -0.15713,
+      51.522883
+    ],
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "Hammersmith & City",
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        428.91,
+        276.01,
+        28.13,
+        8.74
+      ]
+    ],
+    "id": "station-bakerstreet"
+  },
+  {
+    "name": "Balham",
+    "geo": [
+      -0.152997,
+      51.443288
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        424.1,
+        568.82,
+        18.66,
+        8.74
+      ]
+    ],
+    "id": "station-balham"
+  },
+  {
+    "name": "Bank",
+    "geo": [
+      -0.088515,
+      51.513233
+    ],
+    "lines": [
+      "Central",
+      "DLR",
+      "Northern",
+      "Waterloo & City"
+    ],
+    "modes": [
+      "dlr",
+      "tube"
+    ],
+    "rects": [
+      [
+        589.57,
+        344.48,
+        13.5,
+        8.74
+      ]
+    ],
+    "id": "station-bank"
+  },
+  {
+    "name": "Barbican",
+    "geo": [
+      -0.097993,
+      51.520275
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        545.43,
+        320.24,
+        20.83,
+        8.74
+      ]
+    ],
+    "id": "station-barbican"
+  },
+  {
+    "name": "Barking",
+    "geo": [
+      0.080903,
+      51.539495
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City",
+      "Suffragette",
+      "c2c"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        878.75,
+        327.79,
+        18.47,
+        8.74
+      ]
+    ],
+    "id": "station-barking"
+  },
+  {
+    "name": "Barking Riverside",
+    "geo": [
+      0.11596,
+      51.51953
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        935.99,
+        330.15,
+        21.93,
+        12.79
+      ]
+    ],
+    "id": "station-barkingriverside"
+  },
+  {
+    "name": "Barkingside",
+    "geo": [
+      0.088585,
+      51.585689
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        881.55,
+        165.1,
+        26.4,
+        8.74
+      ]
+    ],
+    "id": "station-barkingside"
+  },
+  {
+    "name": "Barons Court",
+    "geo": [
+      -0.213427,
+      51.490311
+    ],
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        300.98,
+        387.33,
+        17.42,
+        12.79
+      ]
+    ],
+    "id": "station-baronscourt"
+  },
+  {
+    "name": "Battersea Power Station",
+    "geo": [
+      -0.142142,
+      51.479932
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        376.78,
+        488.37,
+        22.64,
+        16.84
+      ]
+    ],
+    "id": "station-batterseapowerstation"
+  },
+  {
+    "name": "Bayswater",
+    "geo": [
+      -0.187938,
+      51.512284
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        356.24,
+        326.7,
+        24.54,
+        8.74
+      ]
+    ],
+    "id": "station-bayswater"
+  },
+  {
+    "name": "Beckenham Junction",
+    "geo": [
+      -0.026401,
+      51.41073
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        939.13,
+        570.31,
+        26.56,
+        13.16
+      ]
+    ],
+    "id": "station-beckenhamjunction"
+  },
+  {
+    "name": "Beckenham Road",
+    "geo": [
+      -0.043421,
+      51.409532
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        914.8,
+        570.29,
+        26.56,
+        13.16
+      ]
+    ],
+    "id": "station-beckenhamroad"
+  },
+  {
+    "name": "Beckton",
+    "geo": [
+      0.061453,
+      51.514362
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        909.59,
+        476.87,
+        20.02,
+        8.74
+      ]
+    ],
+    "id": "station-beckton"
+  },
+  {
+    "name": "Beckton Park",
+    "geo": [
+      0.054932,
+      51.508793
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        909.59,
+        439.85,
+        29.78,
+        8.74
+      ]
+    ],
+    "id": "station-becktonpark"
+  },
+  {
+    "name": "Becontree",
+    "geo": [
+      0.127016,
+      51.540331
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        918.9,
+        307.02,
+        24.06,
+        8.74
+      ]
+    ],
+    "id": "station-becontree"
+  },
+  {
+    "name": "Beddington Lane",
+    "geo": [
+      -0.142167,
+      51.389242
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        518.89,
+        630.99,
+        26.55,
+        12.88
+      ]
+    ],
+    "id": "station-beddingtonlane"
+  },
+  {
+    "name": "Belgrave Walk",
+    "geo": [
+      -0.17774,
+      51.4011
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        439.07,
+        631.16,
+        20.87,
+        12.88
+      ]
+    ],
+    "id": "station-belgravewalk"
+  },
+  {
+    "name": "Belsize Park",
+    "geo": [
+      -0.164648,
+      51.550311
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        459.07,
+        217.85,
+        27.35,
+        8.74
+      ]
+    ],
+    "id": "station-belsizepark"
+  },
+  {
+    "name": "Bermondsey",
+    "geo": [
+      -0.063993,
+      51.49775
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        609.68,
+        413.95,
+        28.62,
+        8.74
+      ]
+    ],
+    "id": "station-bermondsey"
+  },
+  {
+    "name": "Bethnal Green",
+    "geo": [
+      -0.059568,
+      51.523917
+    ],
+    "lines": [
+      "Central",
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        684.4,
+        285.72,
+        19.24,
+        26.59
+      ]
+    ],
+    "id": "station-bethnalgreen"
+  },
+  {
+    "name": "Birkbeck",
+    "geo": [
+      -0.055787,
+      51.403767
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        878.01,
+        570.38,
+        20.79,
+        8.74
+      ]
+    ],
+    "id": "station-birkbeck"
+  },
+  {
+    "name": "Blackfriars",
+    "geo": [
+      -0.103659,
+      51.511581
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        518.08,
+        388.66,
+        24.69,
+        8.74
+      ]
+    ],
+    "id": "station-blackfriars"
+  },
+  {
+    "name": "Blackhorse Lane",
+    "geo": [
+      -0.070562,
+      51.384757
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        821.62,
+        607.3,
+        35.86,
+        8.74
+      ]
+    ],
+    "id": "station-blackhorselane"
+  },
+  {
+    "name": "Blackhorse Road",
+    "geo": [
+      -0.041236,
+      51.586605
+    ],
+    "lines": [
+      "Suffragette",
+      "Victoria"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        720.67,
+        161.93,
+        26.61,
+        12.88
+      ]
+    ],
+    "id": "station-blackhorseroad"
+  },
+  {
+    "name": "Blackwall",
+    "geo": [
+      -0.006969,
+      51.507991
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        765.37,
+        369.8,
+        22.98,
+        8.74
+      ]
+    ],
+    "id": "station-blackwall"
+  },
+  {
+    "name": "Bond Street",
+    "geo": [
+      -0.149517,
+      51.51369
+    ],
+    "lines": [
+      "Central",
+      "Elizabeth line",
+      "Jubilee"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "tube"
+    ],
+    "rects": [
+      [
+        425.34,
+        317.78,
+        16.14,
+        12.79
+      ]
+    ],
+    "id": "station-bondstreet"
+  },
+  {
+    "name": "Borough",
+    "geo": [
+      -0.09337,
+      51.501199
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        550.12,
+        448.68,
+        20.52,
+        8.74
+      ],
+      [
+        527.84,
+        508.07,
+        20.53,
+        8.74
+      ]
+    ],
+    "id": "station-borough"
+  },
+  {
+    "name": "Boston Manor",
+    "geo": [
+      -0.324939,
+      51.495635
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        98.46,
+        411.79,
+        31.51,
+        8.74
+      ]
+    ],
+    "id": "station-bostonmanor"
+  },
+  {
+    "name": "Bounds Green",
+    "geo": [
+      -0.124235,
+      51.607034
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        587.85,
+        107.78,
+        31.66,
+        8.74
+      ]
+    ],
+    "id": "station-boundsgreen"
+  },
+  {
+    "name": "Bow Church",
+    "geo": [
+      -0.020936,
+      51.527858
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        759.18,
+        312.94,
+        18.21,
+        12.72
+      ]
+    ],
+    "id": "station-bowchurch"
+  },
+  {
+    "name": "Bow Road",
+    "geo": [
+      -0.025128,
+      51.52694
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        742.11,
+        327.72,
+        13.81,
+        12.72
+      ]
+    ],
+    "id": "station-bowroad"
+  },
+  {
+    "name": "Brent Cross",
+    "geo": [
+      -0.213622,
+      51.57665
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        362.5,
+        164.83,
+        26.97,
+        8.74
+      ],
+      [
+        420.83,
+        144.32,
+        26.97,
+        8.74
+      ]
+    ],
+    "id": "station-brentcross"
+  },
+  {
+    "name": "Brentwood",
+    "geo": [
+      0.299586,
+      51.613605
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        962.23,
+        138.71,
+        26.06,
+        8.74
+      ]
+    ],
+    "id": "station-brentwood"
+  },
+  {
+    "name": "Brixton",
+    "geo": [
+      -0.114888,
+      51.462618
+    ],
+    "lines": [
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        479.88,
+        552.13,
+        18.39,
+        8.74
+      ]
+    ],
+    "id": "station-brixton"
+  },
+  {
+    "name": "Brockley",
+    "geo": [
+      -0.037537,
+      51.464649
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        653.04,
+        509.1,
+        21.12,
+        8.74
+      ]
+    ],
+    "id": "station-brockley"
+  },
+  {
+    "name": "Bromley-by-Bow",
+    "geo": [
+      -0.011538,
+      51.524839
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        777.4,
+        327.7,
+        22.22,
+        12.72
+      ]
+    ],
+    "id": "station-bromleybybow"
+  },
+  {
+    "name": "Brondesbury",
+    "geo": [
+      -0.202309,
+      51.545166
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        336.73,
+        234.6,
+        29.18,
+        8.74
+      ]
+    ],
+    "id": "station-brondesbury"
+  },
+  {
+    "name": "Brondesbury Park",
+    "geo": [
+      -0.210054,
+      51.540734
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        318.96,
+        220.38,
+        29.18,
+        12.72
+      ]
+    ],
+    "id": "station-brondesburypark"
+  },
+  {
+    "name": "Bruce Grove",
+    "geo": [
+      -0.069867,
+      51.593959
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        678.81,
+        140.64,
+        28.2,
+        8.74
+      ]
+    ],
+    "id": "station-brucegrove"
+  },
+  {
+    "name": "Buckhurst Hill",
+    "geo": [
+      0.046757,
+      51.626605
+    ],
+    "lines": [
+      "167",
+      "677",
+      "Central",
+      "W14"
+    ],
+    "modes": [
+      "bus",
+      "tube"
+    ],
+    "rects": [
+      [
+        800.52,
+        103.82,
+        31.93,
+        8.74
+      ]
+    ],
+    "id": "station-buckhursthill"
+  },
+  {
+    "name": "Burnham",
+    "geo": [
+      -0.646374,
+      51.523506
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        247.66,
+        21.86,
+        8.74
+      ]
+    ],
+    "id": "station-burnham"
+  },
+  {
+    "name": "Burnt Oak",
+    "geo": [
+      -0.264048,
+      51.602774
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        352.57,
+        108.23,
+        24.03,
+        8.74
+      ]
+    ],
+    "id": "station-burntoak"
+  },
+  {
+    "name": "Bush Hill Park",
+    "geo": [
+      -0.069221,
+      51.641519
+    ],
+    "lines": [
+      "377",
+      "Weaver"
+    ],
+    "modes": [
+      "bus",
+      "overground"
+    ],
+    "rects": [
+      [
+        643.38,
+        88.55,
+        31.37,
+        8.74
+      ]
+    ],
+    "id": "station-bushhillpark"
+  },
+  {
+    "name": "Bushey",
+    "geo": [
+      -0.384749,
+      51.645582
+    ],
+    "lines": [
+      "Lioness",
+      "West Midlands Trains"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        268.33,
+        73.57,
+        18.18,
+        8.74
+      ]
+    ],
+    "id": "station-bushey"
+  },
+  {
+    "name": "Caledonian Road",
+    "geo": [
+      -0.118493,
+      51.548519
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        547.85,
+        212.23,
+        26.36,
+        12.72
+      ]
+    ],
+    "id": "station-caledonianroad"
+  },
+  {
+    "name": "Caledonian Road & Barnsbury",
+    "geo": [
+      -0.116729,
+      51.543041
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        570.39,
+        235.25,
+        26.12,
+        16.71
+      ]
+    ],
+    "id": "station-caledonianroadandbarnsbury"
+  },
+  {
+    "name": "Cambridge Heath",
+    "geo": [
+      -0.057279,
+      51.531973
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        681.11,
+        268.34,
+        25.27,
+        12.92
+      ]
+    ],
+    "id": "station-cambridgeheath"
+  },
+  {
+    "name": "Camden Road",
+    "geo": [
+      -0.138701,
+      51.541791
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        516.03,
+        219.58,
+        20.29,
+        12.72
+      ]
+    ],
+    "id": "station-camdenroad"
+  },
+  {
+    "name": "Camden Town",
+    "geo": [
+      -0.14274,
+      51.539292
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        467.81,
+        238.71,
+        32.6,
+        8.74
+      ]
+    ],
+    "id": "station-camdentown"
+  },
+  {
+    "name": "Canada Water",
+    "geo": [
+      -0.04972,
+      51.49799
+    ],
+    "lines": [
+      "Jubilee",
+      "Windrush"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        1035.58,
+        91.83,
+        45.34,
+        11.13
+      ],
+      [
+        657.69,
+        419.31,
+        18.43,
+        12.72
+      ]
+    ],
+    "id": "station-canadawater"
+  },
+  {
+    "name": "Canary Wharf",
+    "geo": [
+      -0.018834,
+      51.506203
+    ],
+    "lines": [
+      "DLR",
+      "Elizabeth line",
+      "Jubilee"
+    ],
+    "modes": [
+      "dlr",
+      "elizabeth-line",
+      "tube"
+    ],
+    "rects": [
+      [
+        724.84,
+        408.58,
+        31.05,
+        8.74
+      ]
+    ],
+    "id": "station-canarywharf"
+  },
+  {
+    "name": "Canning Town",
+    "geo": [
+      0.008101,
+      51.514127
+    ],
+    "lines": [
+      "DLR",
+      "Jubilee"
+    ],
+    "modes": [
+      "dlr",
+      "tube"
+    ],
+    "rects": [
+      [
+        814.45,
+        380.82,
+        19.89,
+        12.72
+      ]
+    ],
+    "id": "station-canningtown"
+  },
+  {
+    "name": "Cannon Street",
+    "geo": [
+      -0.090432,
+      51.51151
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        547.9,
+        360.38,
+        19.15,
+        12.72
+      ]
+    ],
+    "id": "station-cannonstreet"
+  },
+  {
+    "name": "Canonbury",
+    "geo": [
+      -0.092191,
+      51.548732
+    ],
+    "lines": [
+      "Mildmay",
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        620.73,
+        242.44,
+        25.69,
+        8.74
+      ]
+    ],
+    "id": "station-canonbury"
+  },
+  {
+    "name": "Canons Park",
+    "geo": [
+      -0.294693,
+      51.607701
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        315.59,
+        131.33,
+        28.35,
+        8.74
+      ]
+    ],
+    "id": "station-canonspark"
+  },
+  {
+    "name": "Carpenders Park",
+    "geo": [
+      -0.385939,
+      51.628351
+    ],
+    "lines": [
+      "Lioness"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        250.15,
+        88.98,
+        36.36,
+        8.74
+      ]
+    ],
+    "id": "station-carpenderspark"
+  },
+  {
+    "name": "Centrale",
+    "geo": [
+      -0.103917,
+      51.375769
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        643.71,
+        609.21,
+        20.99,
+        8.74
+      ]
+    ],
+    "id": "station-centrale"
+  },
+  {
+    "name": "Chadwell Heath",
+    "geo": [
+      0.128958,
+      51.568039
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        905.21,
+        192.73,
+        22.78,
+        12.72
+      ]
+    ],
+    "id": "station-chadwellheath"
+  },
+  {
+    "name": "Chalfont & Latimer",
+    "geo": [
+      -0.560689,
+      51.667985
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        81.97,
+        68.14,
+        25.4,
+        12.88
+      ]
+    ],
+    "id": "station-chalfontandlatimer"
+  },
+  {
+    "name": "Chalk Farm",
+    "geo": [
+      -0.153388,
+      51.544118
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        469.88,
+        227.73,
+        26.31,
+        8.74
+      ]
+    ],
+    "id": "station-chalkfarm"
+  },
+  {
+    "name": "Chancery Lane",
+    "geo": [
+      -0.111583,
+      51.518247
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        515.17,
+        352.31,
+        22.49,
+        12.72
+      ]
+    ],
+    "id": "station-chancerylane"
+  },
+  {
+    "name": "Charing Cross",
+    "geo": [
+      -0.127277,
+      51.50741
+    ],
+    "lines": [
+      "Bakerloo",
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        492.5,
+        374.68,
+        19.05,
+        12.79
+      ]
+    ],
+    "id": "station-charingcross"
+  },
+  {
+    "name": "Chesham",
+    "geo": [
+      -0.611247,
+      51.705208
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        36.31,
+        60.44,
+        22.24,
+        8.74
+      ]
+    ],
+    "id": "station-chesham"
+  },
+  {
+    "name": "Cheshunt",
+    "geo": [
+      -0.02396,
+      51.702876
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        724.06,
+        56.13,
+        23.0,
+        8.74
+      ]
+    ],
+    "id": "station-cheshunt"
+  },
+  {
+    "name": "Chigwell",
+    "geo": [
+      0.075041,
+      51.617916
+    ],
+    "lines": [
+      "167",
+      "667",
+      "677",
+      "Central"
+    ],
+    "modes": [
+      "bus",
+      "tube"
+    ],
+    "rects": [
+      [
+        846.39,
+        132.65,
+        21.35,
+        8.74
+      ]
+    ],
+    "id": "station-chigwell"
+  },
+  {
+    "name": "Chingford",
+    "geo": [
+      0.009897,
+      51.633087
+    ],
+    "lines": [
+      "Weaver"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        748.67,
+        96.64,
+        23.59,
+        8.74
+      ]
+    ],
+    "id": "station-chingford"
+  },
+  {
+    "name": "Chiswick Park",
+    "geo": [
+      -0.267972,
+      51.494627
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        179.0,
+        409.04,
+        21.57,
+        12.79
+      ]
+    ],
+    "id": "station-chiswickpark"
+  },
+  {
+    "name": "Chorleywood",
+    "geo": [
+      -0.518461,
+      51.654358
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        113.87,
+        92.37,
+        30.86,
+        8.74
+      ]
+    ],
+    "id": "station-chorleywood"
+  },
+  {
+    "name": "Church Street",
+    "geo": [
+      -0.104361,
+      51.373708
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        651.51,
+        630.75,
+        18.21,
+        12.88
+      ]
+    ],
+    "id": "station-churchstreet"
+  },
+  {
+    "name": "Clapham Common",
+    "geo": [
+      -0.138317,
+      51.461742
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        444.18,
+        547.73,
+        22.23,
+        12.72
+      ]
+    ],
+    "id": "station-claphamcommon"
+  },
+  {
+    "name": "Clapham High Street",
+    "geo": [
+      -0.132522,
+      51.465481
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        405.54,
+        523.12,
+        44.69,
+        8.74
+      ]
+    ],
+    "id": "station-claphamhighstreet"
+  },
+  {
+    "name": "Clapham Junction",
+    "geo": [
+      -0.170221,
+      51.464187
+    ],
+    "lines": [
+      "Mildmay",
+      "South Western Railway",
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        365.37,
+        514.83,
+        21.52,
+        12.88
+      ]
+    ],
+    "id": "station-claphamjunction"
+  },
+  {
+    "name": "Clapham North",
+    "geo": [
+      -0.130016,
+      51.465135
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        416.16,
+        534.0,
+        34.42,
+        8.74
+      ]
+    ],
+    "id": "station-claphamnorth"
+  },
+  {
+    "name": "Clapham South",
+    "geo": [
+      -0.147582,
+      51.452654
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        433.06,
+        559.56,
+        34.21,
+        8.74
+      ]
+    ],
+    "id": "station-claphamsouth"
+  },
+  {
+    "name": "Clapton",
+    "geo": [
+      -0.057025,
+      51.561644
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        719.48,
+        226.92,
+        19.75,
+        8.74
+      ]
+    ],
+    "id": "station-clapton"
+  },
+  {
+    "name": "Cockfosters",
+    "geo": [
+      -0.149171,
+      51.65152
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        591.63,
+        68.28,
+        27.6,
+        8.74
+      ]
+    ],
+    "id": "station-cockfosters"
+  },
+  {
+    "name": "Colindale",
+    "geo": [
+      -0.249919,
+      51.595424
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        363.25,
+        117.69,
+        22.8,
+        8.74
+      ]
+    ],
+    "id": "station-colindale"
+  },
+  {
+    "name": "Colliers Wood",
+    "geo": [
+      -0.178086,
+      51.41816
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        375.98,
+        584.6,
+        19.21,
+        12.72
+      ]
+    ],
+    "id": "station-collierswood"
+  },
+  {
+    "name": "Coombe Lane",
+    "geo": [
+      -0.05956,
+      51.359791
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        816.84,
+        640.41,
+        31.07,
+        8.74
+      ]
+    ],
+    "id": "station-coombelane"
+  },
+  {
+    "name": "Covent Garden",
+    "geo": [
+      -0.124436,
+      51.513093
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        504.4,
+        359.81,
+        18.3,
+        12.72
+      ]
+    ],
+    "id": "station-coventgarden"
+  },
+  {
+    "name": "Crossharbour",
+    "geo": [
+      -0.014606,
+      51.495728
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        724.51,
+        456.16,
+        30.69,
+        8.74
+      ]
+    ],
+    "id": "station-crossharbour"
+  },
+  {
+    "name": "Crouch Hill",
+    "geo": [
+      -0.117149,
+      51.571302
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        552.55,
+        152.3,
+        26.28,
+        8.74
+      ]
+    ],
+    "id": "station-crouchhill"
+  },
+  {
+    "name": "Croxley",
+    "geo": [
+      -0.441718,
+      51.647044
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        168.93,
+        94.93,
+        19.32,
+        8.74
+      ]
+    ],
+    "id": "station-croxley"
+  },
+  {
+    "name": "Crystal Palace",
+    "geo": [
+      -0.07261,
+      51.418109
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        610.88,
+        574.31,
+        31.86,
+        8.74
+      ]
+    ],
+    "id": "station-crystalpalace"
+  },
+  {
+    "name": "Custom House",
+    "geo": [
+      0.02673,
+      51.509769
+    ],
+    "lines": [
+      "DLR",
+      "Elizabeth line"
+    ],
+    "modes": [
+      "dlr",
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        896.11,
+        386.97,
+        32.86,
+        8.84
+      ]
+    ],
+    "id": "station-customhouse"
+  },
+  {
+    "name": "Cutty Sark",
+    "geo": [
+      -0.01081,
+      51.481671
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        758.93,
+        494.48,
+        24.44,
+        8.84
+      ]
+    ],
+    "id": "station-cuttysark"
+  },
+  {
+    "name": "Cyprus",
+    "geo": [
+      0.063925,
+      51.508473
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        909.59,
+        452.7,
+        17.89,
+        8.74
+      ]
+    ],
+    "id": "station-cyprus"
+  },
+  {
+    "name": "Dagenham East",
+    "geo": [
+      0.166017,
+      51.544096
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        940.89,
+        285.02,
+        34.2,
+        8.74
+      ]
+    ],
+    "id": "station-dagenhameast"
+  },
+  {
+    "name": "Dagenham Heathway",
+    "geo": [
+      0.147527,
+      51.541639
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        928.98,
+        296.82,
+        45.87,
+        8.74
+      ]
+    ],
+    "id": "station-dagenhamheathway"
+  },
+  {
+    "name": "Dalston Junction",
+    "geo": [
+      -0.075137,
+      51.546116
+    ],
+    "lines": [
+      "149",
+      "242",
+      "243",
+      "277",
+      "488",
+      "67",
+      "76",
+      "N242",
+      "Windrush"
+    ],
+    "modes": [
+      "bus",
+      "overground"
+    ],
+    "rects": [
+      [
+        625.0,
+        249.31,
+        37.63,
+        8.74
+      ]
+    ],
+    "id": "station-dalstonjunction"
+  },
+  {
+    "name": "Dalston Kingsland",
+    "geo": [
+      -0.075701,
+      51.548148
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        638.06,
+        219.95,
+        23.09,
+        12.88
+      ]
+    ],
+    "id": "station-dalstonkingsland"
+  },
+  {
+    "name": "Debden",
+    "geo": [
+      0.083782,
+      51.645386
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        838.13,
+        75.95,
+        19.25,
+        8.74
+      ]
+    ],
+    "id": "station-debden"
+  },
+  {
+    "name": "Denmark Hill",
+    "geo": [
+      -0.089361,
+      51.468203
+    ],
+    "lines": [
+      "Southeastern",
+      "Thameslink",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        551.11,
+        518.37,
+        29.94,
+        8.74
+      ]
+    ],
+    "id": "station-denmarkhill"
+  },
+  {
+    "name": "Deptford Bridge",
+    "geo": [
+      -0.022438,
+      51.474215
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        758.89,
+        527.45,
+        35.53,
+        8.74
+      ]
+    ],
+    "id": "station-deptfordbridge"
+  },
+  {
+    "name": "Devons Road",
+    "geo": [
+      -0.017615,
+      51.522667
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        736.39,
+        337.72,
+        18.69,
+        12.72
+      ]
+    ],
+    "id": "station-devonsroad"
+  },
+  {
+    "name": "Dollis Hill",
+    "geo": [
+      -0.239068,
+      51.551955
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        341.53,
+        189.46,
+        23.44,
+        8.74
+      ]
+    ],
+    "id": "station-dollishill"
+  },
+  {
+    "name": "Dundonald Road",
+    "geo": [
+      -0.207679,
+      51.417555
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        349.28,
+        554.45,
+        25.76,
+        12.79
+      ]
+    ],
+    "id": "station-dundonaldroad"
+  },
+  {
+    "name": "Ealing Broadway",
+    "geo": [
+      -0.301752,
+      51.514841
+    ],
+    "lines": [
+      "Central",
+      "District",
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail",
+      "tube"
+    ],
+    "rects": [
+      [
+        137.95,
+        340.24,
+        23.59,
+        12.79
+      ]
+    ],
+    "id": "station-ealingbroadway"
+  },
+  {
+    "name": "Ealing Common",
+    "geo": [
+      -0.288265,
+      51.51014
+    ],
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        135.54,
+        376.54,
+        22.23,
+        12.79
+      ]
+    ],
+    "id": "station-ealingcommon"
+  },
+  {
+    "name": "Earl's Court",
+    "geo": [
+      -0.193378,
+      51.492063
+    ],
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        335.91,
+        408.87,
+        15.36,
+        12.79
+      ]
+    ],
+    "id": "station-earlscourt"
+  },
+  {
+    "name": "East Acton",
+    "geo": [
+      -0.247248,
+      51.516612
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        256.19,
+        346.91,
+        15.75,
+        12.79
+      ]
+    ],
+    "id": "station-eastacton"
+  },
+  {
+    "name": "East Croydon",
+    "geo": [
+      -0.092416,
+      51.374863
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        729.23,
+        614.96,
+        21.0,
+        12.88
+      ]
+    ],
+    "id": "station-eastcroydon"
+  },
+  {
+    "name": "East Finchley",
+    "geo": [
+      -0.165012,
+      51.587131
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        496.59,
+        141.69,
+        29.89,
+        8.74
+      ]
+    ],
+    "id": "station-eastfinchley"
+  },
+  {
+    "name": "East Ham",
+    "geo": [
+      0.051186,
+      51.538948
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        863.52,
+        327.84,
+        13.1,
+        12.72
+      ]
+    ],
+    "id": "station-eastham"
+  },
+  {
+    "name": "East India",
+    "geo": [
+      -0.002326,
+      51.509359
+    ],
+    "lines": [
+      "D3",
+      "DLR",
+      "N550",
+      "SL4"
+    ],
+    "modes": [
+      "bus",
+      "dlr"
+    ],
+    "rects": [
+      [
+        793.87,
+        380.88,
+        13.62,
+        12.72
+      ]
+    ],
+    "id": "station-eastindia"
+  },
+  {
+    "name": "East Putney",
+    "geo": [
+      -0.211,
+      51.459205
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        304.67,
+        485.37,
+        27.34,
+        8.74
+      ]
+    ],
+    "id": "station-eastputney"
+  },
+  {
+    "name": "Eastcote",
+    "geo": [
+      -0.397373,
+      51.576506
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        157.76,
+        137.45,
+        20.95,
+        8.74
+      ]
+    ],
+    "id": "station-eastcote"
+  },
+  {
+    "name": "Edgware",
+    "geo": [
+      -0.274928,
+      51.613653
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        341.69,
+        95.15,
+        20.89,
+        8.74
+      ]
+    ],
+    "id": "station-edgware"
+  },
+  {
+    "name": "Edgware Road",
+    "geo": [
+      -0.17015,
+      51.520299
+    ],
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        336.84,
+        268.52,
+        31.85,
+        8.74
+      ],
+      [
+        375.3,
+        287.56,
+        31.85,
+        8.74
+      ]
+    ],
+    "id": "station-edgwareroad"
+  },
+  {
+    "name": "Edmonton Green",
+    "geo": [
+      -0.061112,
+      51.624929
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        679.45,
+        106.78,
+        37.72,
+        8.74
+      ]
+    ],
+    "id": "station-edmontongreen"
+  },
+  {
+    "name": "Elephant & Castle",
+    "geo": [
+      -0.100606,
+      51.494536
+    ],
+    "lines": [
+      "Bakerloo",
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        525.28,
+        486.32,
+        39.18,
+        8.74
+      ]
+    ],
+    "id": "station-elephantandcastle"
+  },
+  {
+    "name": "Elm Park",
+    "geo": [
+      0.19864,
+      51.549775
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        952.17,
+        273.52,
+        21.4,
+        8.74
+      ]
+    ],
+    "id": "station-elmpark"
+  },
+  {
+    "name": "Elmers End",
+    "geo": [
+      -0.049557,
+      51.398474
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        858.72,
+        585.29,
+        26.19,
+        8.74
+      ]
+    ],
+    "id": "station-elmersend"
+  },
+  {
+    "name": "Elverson Road",
+    "geo": [
+      -0.016728,
+      51.469074
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        758.93,
+        539.19,
+        32.06,
+        8.74
+      ]
+    ],
+    "id": "station-elversonroad"
+  },
+  {
+    "name": "Embankment",
+    "geo": [
+      -0.122666,
+      51.507058
+    ],
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "District",
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        498.37,
+        397.15,
+        30.25,
+        8.74
+      ]
+    ],
+    "id": "station-embankment"
+  },
+  {
+    "name": "Emerson Park",
+    "geo": [
+      0.220113,
+      51.568642
+    ],
+    "lines": [
+      "Liberty"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        965.31,
+        199.84,
+        21.3,
+        12.79
+      ]
+    ],
+    "id": "station-emersonpark"
+  },
+  {
+    "name": "Enfield Town",
+    "geo": [
+      -0.079328,
+      51.652026
+    ],
+    "lines": [
+      "Weaver"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        644.61,
+        74.48,
+        30.14,
+        8.74
+      ]
+    ],
+    "id": "station-enfieldtown"
+  },
+  {
+    "name": "Epping",
+    "geo": [
+      0.113767,
+      51.69368
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        853.9,
+        61.3,
+        17.26,
+        8.74
+      ]
+    ],
+    "id": "station-epping"
+  },
+  {
+    "name": "Euston",
+    "geo": [
+      -0.133924,
+      51.528136
+    ],
+    "lines": [
+      "Avanti West Coast",
+      "Lioness",
+      "Northern",
+      "Victoria",
+      "West Midlands Trains"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        478.95,
+        264.9,
+        17.69,
+        8.74
+      ]
+    ],
+    "id": "station-euston"
+  },
+  {
+    "name": "Euston Square",
+    "geo": [
+      -0.135829,
+      51.525604
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        468.51,
+        288.64,
+        17.69,
+        12.72
+      ]
+    ],
+    "id": "station-eustonsquare"
+  },
+  {
+    "name": "Fairlop",
+    "geo": [
+      0.091004,
+      51.595618
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        881.57,
+        152.21,
+        17.64,
+        8.74
+      ]
+    ],
+    "id": "station-fairlop"
+  },
+  {
+    "name": "Farringdon",
+    "geo": [
+      -0.104915,
+      51.520189
+    ],
+    "lines": [
+      "Circle",
+      "Elizabeth line",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "tube"
+    ],
+    "rects": [
+      [
+        551.28,
+        294.57,
+        25.18,
+        8.74
+      ]
+    ],
+    "id": "station-farringdon"
+  },
+  {
+    "name": "Fieldway",
+    "geo": [
+      -0.024532,
+      51.351319
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        813.13,
+        665.22,
+        21.57,
+        8.74
+      ]
+    ],
+    "id": "station-fieldway"
+  },
+  {
+    "name": "Finchley Central",
+    "geo": [
+      -0.192527,
+      51.600921
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        489.89,
+        130.19,
+        36.31,
+        8.74
+      ]
+    ],
+    "id": "station-finchleycentral"
+  },
+  {
+    "name": "Finchley Road",
+    "geo": [
+      -0.179845,
+      51.546825
+    ],
+    "lines": [
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        366.3,
+        253.68,
+        20.48,
+        12.72
+      ]
+    ],
+    "id": "station-finchleyroad"
+  },
+  {
+    "name": "Finchley Road & Frognal",
+    "geo": [
+      -0.183141,
+      51.550266
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        408.21,
+        234.26,
+        51.3,
+        8.74
+      ]
+    ],
+    "id": "station-finchleyroadandfrognal"
+  },
+  {
+    "name": "Finsbury Park",
+    "geo": [
+      -0.106825,
+      51.564158
+    ],
+    "lines": [
+      "Piccadilly",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        610.42,
+        192.18,
+        20.9,
+        12.79
+      ]
+    ],
+    "id": "station-finsburypark"
+  },
+  {
+    "name": "Forest Gate",
+    "geo": [
+      0.024353,
+      51.549432
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        836.35,
+        214.26,
+        16.47,
+        12.79
+      ]
+    ],
+    "id": "station-forestgate"
+  },
+  {
+    "name": "Forest Hill",
+    "geo": [
+      -0.053157,
+      51.43928
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        649.97,
+        527.88,
+        24.53,
+        8.74
+      ]
+    ],
+    "id": "station-foresthill"
+  },
+  {
+    "name": "Fulham Broadway",
+    "geo": [
+      -0.195422,
+      51.480081
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        292.54,
+        446.35,
+        39.45,
+        8.74
+      ]
+    ],
+    "id": "station-fulhambroadway"
+  },
+  {
+    "name": "Gallions Reach",
+    "geo": [
+      0.071555,
+      51.508941
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        909.59,
+        465.79,
+        32.91,
+        8.74
+      ]
+    ],
+    "id": "station-gallionsreach"
+  },
+  {
+    "name": "Gants Hill",
+    "geo": [
+      0.066185,
+      51.576544
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        860.35,
+        192.5,
+        23.51,
+        8.74
+      ]
+    ],
+    "id": "station-gantshill"
+  },
+  {
+    "name": "George Street",
+    "geo": [
+      -0.098746,
+      51.373977
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        679.7,
+        630.75,
+        18.06,
+        12.88
+      ]
+    ],
+    "id": "station-georgestreet"
+  },
+  {
+    "name": "Gidea Park",
+    "geo": [
+      0.205964,
+      51.581904
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Greater Anglia"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        928.83,
+        170.7,
+        24.94,
+        8.74
+      ]
+    ],
+    "id": "station-gideapark"
+  },
+  {
+    "name": "Gloucester Road",
+    "geo": [
+      -0.182658,
+      51.494316
+    ],
+    "lines": [
+      "Circle",
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        356.45,
+        387.97,
+        25.59,
+        12.72
+      ]
+    ],
+    "id": "station-gloucesterroad"
+  },
+  {
+    "name": "Golders Green",
+    "geo": [
+      -0.194039,
+      51.572259
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        431.93,
+        155.37,
+        32.49,
+        8.74
+      ]
+    ],
+    "id": "station-goldersgreen"
+  },
+  {
+    "name": "Goldhawk Road",
+    "geo": [
+      -0.226715,
+      51.502005
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        255.5,
+        380.96,
+        35.05,
+        8.74
+      ]
+    ],
+    "id": "station-goldhawkroad"
+  },
+  {
+    "name": "Goodge Street",
+    "geo": [
+      -0.134361,
+      51.520599
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        470.71,
+        314.16,
+        19.13,
+        12.72
+      ]
+    ],
+    "id": "station-goodgestreet"
+  },
+  {
+    "name": "Goodmayes",
+    "geo": [
+      0.110807,
+      51.565579
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        886.44,
+        211.19,
+        27.31,
+        8.74
+      ]
+    ],
+    "id": "station-goodmayes"
+  },
+  {
+    "name": "Gospel Oak",
+    "geo": [
+      -0.15077,
+      51.555335
+    ],
+    "lines": [
+      "Mildmay",
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        480.79,
+        187.73,
+        17.76,
+        12.72
+      ]
+    ],
+    "id": "station-gospeloak"
+  },
+  {
+    "name": "Grange Hill",
+    "geo": [
+      0.092066,
+      51.613378
+    ],
+    "lines": [
+      "462",
+      "Central"
+    ],
+    "modes": [
+      "bus",
+      "tube"
+    ],
+    "rects": [
+      [
+        858.38,
+        122.08,
+        25.96,
+        8.74
+      ]
+    ],
+    "id": "station-grangehill"
+  },
+  {
+    "name": "Gravel Hill",
+    "geo": [
+      -0.04315,
+      51.354545
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        794.54,
+        650.17,
+        24.92,
+        8.74
+      ]
+    ],
+    "id": "station-gravelhill"
+  },
+  {
+    "name": "Great Portland Street",
+    "geo": [
+      -0.144262,
+      51.52384
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        434.27,
+        289.44,
+        33.18,
+        12.57
+      ]
+    ],
+    "id": "station-greatportlandstreet"
+  },
+  {
+    "name": "Green Park",
+    "geo": [
+      -0.142787,
+      51.506947
+    ],
+    "lines": [
+      "Jubilee",
+      "Piccadilly",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        432.98,
+        356.06,
+        25.65,
+        8.74
+      ]
+    ],
+    "id": "station-greenpark"
+  },
+  {
+    "name": "Greenford",
+    "geo": [
+      -0.34605,
+      51.542424
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        132.26,
+        247.62,
+        24.28,
+        8.74
+      ]
+    ],
+    "id": "station-greenford"
+  },
+  {
+    "name": "Greenwich",
+    "geo": [
+      -0.013673,
+      51.478087
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        776.17,
+        498.89,
+        18.35,
+        7.3
+      ],
+      [
+        759.08,
+        515.33,
+        25.25,
+        8.74
+      ],
+      [
+        806.25,
+        428.81,
+        25.25,
+        8.74
+      ]
+    ],
+    "id": "station-greenwich"
+  },
+  {
+    "name": "Gunnersbury",
+    "geo": [
+      -0.275286,
+      51.491678
+    ],
+    "lines": [
+      "District",
+      "Mildmay"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        193.62,
+        435.44,
+        29.67,
+        8.74
+      ]
+    ],
+    "id": "station-gunnersbury"
+  },
+  {
+    "name": "Hackney Central",
+    "geo": [
+      -0.056058,
+      51.547105
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        715.99,
+        258.53,
+        20.73,
+        12.92
+      ]
+    ],
+    "id": "station-hackneycentral"
+  },
+  {
+    "name": "Hackney Downs",
+    "geo": [
+      -0.060819,
+      51.548757
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        684.47,
+        238.09,
+        20.73,
+        12.79
+      ]
+    ],
+    "id": "station-hackneydowns"
+  },
+  {
+    "name": "Hackney Wick",
+    "geo": [
+      -0.02492,
+      51.54341
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        758.73,
+        258.09,
+        20.73,
+        12.79
+      ]
+    ],
+    "id": "station-hackneywick"
+  },
+  {
+    "name": "Haggerston",
+    "geo": [
+      -0.075666,
+      51.538705
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        643.48,
+        256.54,
+        26.33,
+        8.74
+      ]
+    ],
+    "id": "station-haggerston"
+  },
+  {
+    "name": "Hainault",
+    "geo": [
+      0.093482,
+      51.603659
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        881.86,
+        138.72,
+        20.68,
+        8.74
+      ]
+    ],
+    "id": "station-hainault"
+  },
+  {
+    "name": "Hammersmith",
+    "geo": [
+      -0.22503,
+      51.49339
+    ],
+    "lines": [
+      "Circle",
+      "District",
+      "Hammersmith & City",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        260.36,
+        391.95,
+        32.24,
+        8.74
+      ]
+    ],
+    "id": "station-hammersmith"
+  },
+  {
+    "name": "Hampstead",
+    "geo": [
+      -0.177464,
+      51.556239
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        442.94,
+        166.08,
+        26.37,
+        8.74
+      ]
+    ],
+    "id": "station-hampstead"
+  },
+  {
+    "name": "Hampstead Heath",
+    "geo": [
+      -0.165705,
+      51.55521
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        441.23,
+        198.57,
+        26.37,
+        12.72
+      ]
+    ],
+    "id": "station-hampsteadheath"
+  },
+  {
+    "name": "Hanger Lane",
+    "geo": [
+      -0.292704,
+      51.530177
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        177.77,
+        289.48,
+        28.31,
+        8.74
+      ]
+    ],
+    "id": "station-hangerlane"
+  },
+  {
+    "name": "Hanwell",
+    "geo": [
+      -0.338583,
+      51.511835
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        107.78,
+        344.16,
+        20.43,
+        8.74
+      ]
+    ],
+    "id": "station-hanwell"
+  },
+  {
+    "name": "Harlesden",
+    "geo": [
+      -0.257667,
+      51.536289
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        260.23,
+        216.95,
+        23.93,
+        8.74
+      ]
+    ],
+    "id": "station-harlesden"
+  },
+  {
+    "name": "Harold Wood",
+    "geo": [
+      0.233129,
+      51.592766
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        935.28,
+        159.41,
+        30.25,
+        8.74
+      ]
+    ],
+    "id": "station-haroldwood"
+  },
+  {
+    "name": "Harringay Green Lanes",
+    "geo": [
+      -0.098144,
+      51.577182
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        631.42,
+        148.81,
+        28.25,
+        12.72
+      ]
+    ],
+    "id": "station-harringaygreenlanes"
+  },
+  {
+    "name": "Harrington Road",
+    "geo": [
+      -0.060729,
+      51.399793
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        854.8,
+        570.49,
+        25.23,
+        13.16
+      ]
+    ],
+    "id": "station-harringtonroad"
+  },
+  {
+    "name": "Harrow & Wealdstone",
+    "geo": [
+      -0.334571,
+      51.592169
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness",
+      "Southern",
+      "West Midlands Trains"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        257.03,
+        129.34,
+        27.62,
+        12.79
+      ]
+    ],
+    "id": "station-harrowandwealdstone"
+  },
+  {
+    "name": "Harrow-on-the-Hill",
+    "geo": [
+      -0.337225,
+      51.579195
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        224.0,
+        174.84,
+        25.71,
+        12.72
+      ]
+    ],
+    "id": "station-harrowonthehill"
+  },
+  {
+    "name": "Hatch End",
+    "geo": [
+      -0.368601,
+      51.609417
+    ],
+    "lines": [
+      "Lioness"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        262.91,
+        103.47,
+        24.18,
+        8.74
+      ]
+    ],
+    "id": "station-hatchend"
+  },
+  {
+    "name": "Hatton Cross",
+    "geo": [
+      -0.423191,
+      51.466747
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        89.33,
+        460.01,
+        29.94,
+        8.74
+      ]
+    ],
+    "id": "station-hattoncross"
+  },
+  {
+    "name": "Hayes & Harlington",
+    "geo": [
+      -0.420683,
+      51.503096
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        71.61,
+        340.3,
+        24.9,
+        12.79
+      ]
+    ],
+    "id": "station-hayesandharlington"
+  },
+  {
+    "name": "Headstone Lane",
+    "geo": [
+      -0.35722,
+      51.602649
+    ],
+    "lines": [
+      "Lioness"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        251.52,
+        118.8,
+        35.56,
+        8.74
+      ]
+    ],
+    "id": "station-headstonelane"
+  },
+  {
+    "name": "Heathrow Terminal 4",
+    "geo": [
+      -0.445463,
+      51.458268
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Piccadilly"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "tube"
+    ],
+    "rects": [
+      [
+        75.8,
+        513.15,
+        25.14,
+        12.79
+      ]
+    ],
+    "id": "station-heathrowterminal4"
+  },
+  {
+    "name": "Heathrow Terminal 5",
+    "geo": [
+      -0.490589,
+      51.470053
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Heathrow Express",
+      "Piccadilly"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail",
+      "tube"
+    ],
+    "rects": [
+      [
+        40.1,
+        513.21,
+        24.84,
+        12.79
+      ]
+    ],
+    "id": "station-heathrowterminal5"
+  },
+  {
+    "name": "Heathrow Terminals 2 & 3",
+    "geo": [
+      -0.454788,
+      51.471987
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Heathrow Express",
+      "Piccadilly"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail",
+      "tube"
+    ],
+    "rects": [
+      [
+        46.81,
+        453.52,
+        23.67,
+        16.84
+      ]
+    ],
+    "id": "station-heathrowterminals2and3"
+  },
+  {
+    "name": "Hendon Central",
+    "geo": [
+      -0.226424,
+      51.583301
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        410.04,
+        132.26,
+        35.32,
+        8.74
+      ]
+    ],
+    "id": "station-hendoncentral"
+  },
+  {
+    "name": "Heron Quays",
+    "geo": [
+      -0.021421,
+      51.503379
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        725.62,
+        435.51,
+        29.66,
+        8.74
+      ]
+    ],
+    "id": "station-heronquays"
+  },
+  {
+    "name": "High Barnet",
+    "geo": [
+      -0.194298,
+      51.650541
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        499.0,
+        76.08,
+        26.99,
+        8.74
+      ]
+    ],
+    "id": "station-highbarnet"
+  },
+  {
+    "name": "High Street Kensington",
+    "geo": [
+      -0.192792,
+      51.501055
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        356.12,
+        370.34,
+        26.14,
+        12.72
+      ]
+    ],
+    "id": "station-highstreetkensington"
+  },
+  {
+    "name": "Highams Park",
+    "geo": [
+      -0.000222,
+      51.60835
+    ],
+    "lines": [
+      "Weaver"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        748.53,
+        122.77,
+        30.64,
+        8.74
+      ]
+    ],
+    "id": "station-highamspark"
+  },
+  {
+    "name": "Highbury & Islington",
+    "geo": [
+      -0.103764,
+      51.546177
+    ],
+    "lines": [
+      "Great Northern",
+      "Mildmay",
+      "Victoria",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        603.95,
+        219.14,
+        25.96,
+        12.88
+      ]
+    ],
+    "id": "station-highburyandislington"
+  },
+  {
+    "name": "Highgate",
+    "geo": [
+      -0.145857,
+      51.577532
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        505.23,
+        152.39,
+        21.25,
+        8.74
+      ]
+    ],
+    "id": "station-highgate"
+  },
+  {
+    "name": "Hillingdon",
+    "geo": [
+      -0.449828,
+      51.553715
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        64.63,
+        130.63,
+        24.32,
+        8.74
+      ]
+    ],
+    "id": "station-hillingdon"
+  },
+  {
+    "name": "Holborn",
+    "geo": [
+      -0.120475,
+      51.51758
+    ],
+    "lines": [
+      "Central",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        498.54,
+        339.02,
+        20.25,
+        8.74
+      ]
+    ],
+    "id": "station-holborn"
+  },
+  {
+    "name": "Holland Park",
+    "geo": [
+      -0.205679,
+      51.507143
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        332.43,
+        361.15,
+        19.56,
+        12.72
+      ]
+    ],
+    "id": "station-hollandpark"
+  },
+  {
+    "name": "Holloway Road",
+    "geo": [
+      -0.113244,
+      51.552697
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        561.62,
+        202.86,
+        22.99,
+        12.72
+      ]
+    ],
+    "id": "station-hollowayroad"
+  },
+  {
+    "name": "Homerton",
+    "geo": [
+      -0.04236,
+      51.547012
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        735.49,
+        247.02,
+        24.29,
+        8.74
+      ]
+    ],
+    "id": "station-homerton"
+  },
+  {
+    "name": "Honor Oak Park",
+    "geo": [
+      -0.045505,
+      51.449989
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        639.27,
+        518.66,
+        35.1,
+        8.74
+      ]
+    ],
+    "id": "station-honoroakpark"
+  },
+  {
+    "name": "Hornchurch",
+    "geo": [
+      0.219116,
+      51.554093
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        963.64,
+        262.31,
+        27.25,
+        8.74
+      ]
+    ],
+    "id": "station-hornchurch"
+  },
+  {
+    "name": "Hounslow Central",
+    "geo": [
+      -0.366578,
+      51.471295
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        111.01,
+        437.98,
+        39.98,
+        8.74
+      ]
+    ],
+    "id": "station-hounslowcentral"
+  },
+  {
+    "name": "Hounslow East",
+    "geo": [
+      -0.356474,
+      51.473213
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        117.48,
+        432.16,
+        33.57,
+        8.74
+      ]
+    ],
+    "id": "station-hounsloweast"
+  },
+  {
+    "name": "Hounslow West",
+    "geo": [
+      -0.386544,
+      51.473469
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        1035.58,
+        157.61,
+        51.05,
+        11.13
+      ],
+      [
+        102.97,
+        447.25,
+        24.15,
+        12.72
+      ]
+    ],
+    "id": "station-hounslowwest"
+  },
+  {
+    "name": "Hoxton",
+    "geo": [
+      -0.075681,
+      51.531512
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        655.8,
+        266.32,
+        18.64,
+        8.74
+      ]
+    ],
+    "id": "station-hoxton"
+  },
+  {
+    "name": "Hyde Park Corner",
+    "geo": [
+      -0.152441,
+      51.503035
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        387.97,
+        365.08,
+        23.98,
+        12.79
+      ]
+    ],
+    "id": "station-hydeparkcorner"
+  },
+  {
+    "name": "Ickenham",
+    "geo": [
+      -0.442225,
+      51.56177
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        88.77,
+        141.79,
+        23.05,
+        8.74
+      ]
+    ],
+    "id": "station-ickenham"
+  },
+  {
+    "name": "Ilford",
+    "geo": [
+      0.06968,
+      51.559118
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Greater Anglia"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        878.75,
+        218.85,
+        15.04,
+        8.74
+      ]
+    ],
+    "id": "station-ilford"
+  },
+  {
+    "name": "Imperial Wharf",
+    "geo": [
+      -0.182823,
+      51.474949
+    ],
+    "lines": [
+      "Mildmay",
+      "Southern"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        357.32,
+        453.52,
+        20.35,
+        13.75
+      ]
+    ],
+    "id": "station-imperialwharf"
+  },
+  {
+    "name": "Island Gardens",
+    "geo": [
+      -0.010139,
+      51.487811
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        722.08,
+        476.67,
+        33.23,
+        8.74
+      ]
+    ],
+    "id": "station-islandgardens"
+  },
+  {
+    "name": "Iver",
+    "geo": [
+      -0.506726,
+      51.508503
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        401.13,
+        474.08,
+        11.44,
+        8.74
+      ],
+      [
+        680.85,
+        393.49,
+        11.44,
+        8.74
+      ],
+      [
+        42.89,
+        303.13,
+        11.55,
+        8.74
+      ],
+      [
+        145.46,
+        635.23,
+        16.09,
+        19.18
+      ]
+    ],
+    "id": "station-iver"
+  },
+  {
+    "name": "Kennington",
+    "geo": [
+      -0.105963,
+      51.488337
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        461.26,
+        489.73,
+        26.71,
+        8.74
+      ]
+    ],
+    "id": "station-kennington"
+  },
+  {
+    "name": "Kensal Green",
+    "geo": [
+      -0.225088,
+      51.53054
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        290.23,
+        240.95,
+        30.09,
+        8.74
+      ]
+    ],
+    "id": "station-kensalgreen"
+  },
+  {
+    "name": "Kensal Rise",
+    "geo": [
+      -0.219957,
+      51.534554
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        299.49,
+        219.69,
+        17.06,
+        12.88
+      ]
+    ],
+    "id": "station-kensalrise"
+  },
+  {
+    "name": "Kensington (Olympia)",
+    "geo": [
+      -0.210364,
+      51.497899
+    ],
+    "lines": [
+      "District",
+      "Mildmay",
+      "Southern"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        298.35,
+        375.1,
+        26.14,
+        13.0
+      ]
+    ],
+    "id": "station-kensingtonolympia"
+  },
+  {
+    "name": "Kentish Town",
+    "geo": [
+      -0.140733,
+      51.550312
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        530.15,
+        194.14,
+        18.91,
+        12.72
+      ]
+    ],
+    "id": "station-kentishtown"
+  },
+  {
+    "name": "Kentish Town West",
+    "geo": [
+      -0.146655,
+      51.546548
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        501.63,
+        203.06,
+        18.91,
+        16.71
+      ]
+    ],
+    "id": "station-kentishtownwest"
+  },
+  {
+    "name": "Kenton",
+    "geo": [
+      -0.316981,
+      51.581802
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        266.39,
+        154.14,
+        18.37,
+        8.74
+      ]
+    ],
+    "id": "station-kenton"
+  },
+  {
+    "name": "Kew Gardens",
+    "geo": [
+      -0.285054,
+      51.477073
+    ],
+    "lines": [
+      "District",
+      "Mildmay"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        167.21,
+        463.46,
+        30.05,
+        8.74
+      ]
+    ],
+    "id": "station-kewgardens"
+  },
+  {
+    "name": "Kilburn",
+    "geo": [
+      -0.204248,
+      51.547183
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        363.86,
+        211.54,
+        18.48,
+        8.74
+      ]
+    ],
+    "id": "station-kilburn"
+  },
+  {
+    "name": "Kilburn High Road",
+    "geo": [
+      -0.192237,
+      51.537277
+    ],
+    "lines": [
+      "Lioness"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        325.54,
+        252.71,
+        23.82,
+        12.79
+      ]
+    ],
+    "id": "station-kilburnhighroad"
+  },
+  {
+    "name": "Kilburn Park",
+    "geo": [
+      -0.194232,
+      51.534979
+    ],
+    "lines": [
+      "Bakerloo"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        272.45,
+        266.18,
+        28.25,
+        8.74
+      ]
+    ],
+    "id": "station-kilburnpark"
+  },
+  {
+    "name": "King George V",
+    "geo": [
+      0.062624,
+      51.502003
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        849.48,
+        473.97,
+        21.94,
+        12.79
+      ]
+    ],
+    "id": "station-kinggeorgev"
+  },
+  {
+    "name": "King Henry's Drive",
+    "geo": [
+      -0.01998,
+      51.34508
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        803.31,
+        673.58,
+        40.15,
+        8.74
+      ]
+    ],
+    "id": "station-kinghenrysdrive"
+  },
+  {
+    "name": "King's Cross St. Pancras",
+    "geo": [
+      -0.123194,
+      51.530663
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan",
+      "Northern",
+      "Piccadilly",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        545.4,
+        259.85,
+        29.72,
+        16.84
+      ]
+    ],
+    "id": "station-kingscrossstpancras"
+  },
+  {
+    "name": "Kingsbury",
+    "geo": [
+      -0.27879,
+      51.584845
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        316.48,
+        155.62,
+        23.56,
+        8.74
+      ]
+    ],
+    "id": "station-kingsbury"
+  },
+  {
+    "name": "Knightsbridge",
+    "geo": [
+      -0.160508,
+      51.501669
+    ],
+    "lines": [
+      "137",
+      "19",
+      "22",
+      "452",
+      "C1",
+      "N137",
+      "N19",
+      "N22",
+      "Piccadilly"
+    ],
+    "modes": [
+      "bus",
+      "tube"
+    ],
+    "rects": [
+      [
+        367.81,
+        380.81,
+        31.12,
+        8.74
+      ]
+    ],
+    "id": "station-knightsbridge"
+  },
+  {
+    "name": "Ladbroke Grove",
+    "geo": [
+      -0.210391,
+      51.517449
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        308.25,
+        325.96,
+        35.34,
+        8.74
+      ]
+    ],
+    "id": "station-ladbrokegrove"
+  },
+  {
+    "name": "Lambeth North",
+    "geo": [
+      -0.112315,
+      51.498808
+    ],
+    "lines": [
+      "Bakerloo"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        499.49,
+        453.19,
+        21.42,
+        13.29
+      ]
+    ],
+    "id": "station-lambethnorth"
+  },
+  {
+    "name": "Lancaster Gate",
+    "geo": [
+      -0.175494,
+      51.511723
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        390.69,
+        351.28,
+        22.91,
+        12.72
+      ]
+    ],
+    "id": "station-lancastergate"
+  },
+  {
+    "name": "Langdon Park",
+    "geo": [
+      -0.01415,
+      51.515172
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        734.66,
+        348.68,
+        20.71,
+        12.72
+      ]
+    ],
+    "id": "station-langdonpark"
+  },
+  {
+    "name": "Langley",
+    "geo": [
+      -0.541756,
+      51.508062
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        285.3,
+        19.1,
+        8.74
+      ]
+    ],
+    "id": "station-langley"
+  },
+  {
+    "name": "Latimer Road",
+    "geo": [
+      -0.217799,
+      51.513389
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        299.83,
+        334.29,
+        30.12,
+        8.74
+      ]
+    ],
+    "id": "station-latimerroad"
+  },
+  {
+    "name": "Lebanon Road",
+    "geo": [
+      -0.085002,
+      51.375201
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        749.85,
+        631.05,
+        20.85,
+        12.88
+      ]
+    ],
+    "id": "station-lebanonroad"
+  },
+  {
+    "name": "Leicester Square",
+    "geo": [
+      -0.128426,
+      51.511386
+    ],
+    "lines": [
+      "Northern",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        469.08,
+        351.56,
+        21.78,
+        12.72
+      ]
+    ],
+    "id": "station-leicestersquare"
+  },
+  {
+    "name": "Lewisham",
+    "geo": [
+      -0.012874,
+      51.464665
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        758.91,
+        551.34,
+        23.85,
+        8.74
+      ]
+    ],
+    "id": "station-lewisham"
+  },
+  {
+    "name": "Leyton",
+    "geo": [
+      -0.005523,
+      51.556589
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        803.14,
+        225.39,
+        17.69,
+        8.74
+      ]
+    ],
+    "id": "station-leyton"
+  },
+  {
+    "name": "Leyton Midland Road",
+    "geo": [
+      -0.008051,
+      51.569725
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        754.06,
+        196.42,
+        30.8,
+        12.88
+      ]
+    ],
+    "id": "station-leytonmidlandroad"
+  },
+  {
+    "name": "Leytonstone",
+    "geo": [
+      0.008194,
+      51.568324
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        832.72,
+        202.98,
+        28.78,
+        8.74
+      ]
+    ],
+    "id": "station-leytonstone"
+  },
+  {
+    "name": "Leytonstone High Road",
+    "geo": [
+      0.008416,
+      51.563554
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        793.09,
+        204.35,
+        28.78,
+        12.88
+      ]
+    ],
+    "id": "station-leytonstonehighroad"
+  },
+  {
+    "name": "Limehouse",
+    "geo": [
+      -0.039809,
+      51.512393
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        694.88,
+        380.81,
+        25.43,
+        8.74
+      ]
+    ],
+    "id": "station-limehouse"
+  },
+  {
+    "name": "Liverpool Street",
+    "geo": [
+      -0.081426,
+      51.517991
+    ],
+    "lines": [
+      "Central",
+      "Circle",
+      "Elizabeth line",
+      "Greater Anglia",
+      "Hammersmith & City",
+      "Metropolitan",
+      "Weaver",
+      "c2c"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        608.26,
+        298.52,
+        22.66,
+        12.87
+      ]
+    ],
+    "id": "station-liverpoolstreet"
+  },
+  {
+    "name": "Lloyd Park",
+    "geo": [
+      -0.080775,
+      51.364278
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        808.79,
+        632.74,
+        24.52,
+        8.74
+      ]
+    ],
+    "id": "station-lloydpark"
+  },
+  {
+    "name": "London Bridge",
+    "geo": [
+      -0.088873,
+      51.505721
+    ],
+    "lines": [
+      "Jubilee",
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        589.29,
+        399.37,
+        32.41,
+        8.74
+      ]
+    ],
+    "id": "station-londonbridge"
+  },
+  {
+    "name": "London City Airport",
+    "geo": [
+      0.048739,
+      51.503416
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        844.07,
+        455.08,
+        27.36,
+        12.72
+      ]
+    ],
+    "id": "station-londoncityairport"
+  },
+  {
+    "name": "London Fields",
+    "geo": [
+      -0.057753,
+      51.541153
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        687.45,
+        257.83,
+        18.91,
+        12.92
+      ]
+    ],
+    "id": "station-londonfields"
+  },
+  {
+    "name": "Loughton",
+    "geo": [
+      0.055476,
+      51.641443
+    ],
+    "lines": [
+      "167",
+      "20",
+      "397",
+      "677",
+      "Central",
+      "W14"
+    ],
+    "modes": [
+      "bus",
+      "tube"
+    ],
+    "rects": [
+      [
+        827.81,
+        82.88,
+        22.82,
+        8.74
+      ]
+    ],
+    "id": "station-loughton"
+  },
+  {
+    "name": "Maida Vale",
+    "geo": [
+      -0.185758,
+      51.529777
+    ],
+    "lines": [
+      "Bakerloo"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        283.69,
+        274.18,
+        25.31,
+        8.74
+      ]
+    ],
+    "id": "station-maidavale"
+  },
+  {
+    "name": "Maidenhead",
+    "geo": [
+      -0.72266,
+      51.518669
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        211.32,
+        27.79,
+        8.74
+      ]
+    ],
+    "id": "station-maidenhead"
+  },
+  {
+    "name": "Manor House",
+    "geo": [
+      -0.096118,
+      51.570738
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        623.97,
+        167.22,
+        30.05,
+        8.74
+      ]
+    ],
+    "id": "station-manorhouse"
+  },
+  {
+    "name": "Manor Park",
+    "geo": [
+      0.046342,
+      51.552477
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        861.38,
+        214.41,
+        16.5,
+        12.79
+      ]
+    ],
+    "id": "station-manorpark"
+  },
+  {
+    "name": "Mansion House",
+    "geo": [
+      -0.094009,
+      51.512117
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        528.34,
+        376.11,
+        20.43,
+        12.72
+      ]
+    ],
+    "id": "station-mansionhouse"
+  },
+  {
+    "name": "Marble Arch",
+    "geo": [
+      -0.158953,
+      51.513424
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        368.93,
+        336.63,
+        27.96,
+        8.74
+      ]
+    ],
+    "id": "station-marblearch"
+  },
+  {
+    "name": "Maryland",
+    "geo": [
+      0.005815,
+      51.546081
+    ],
+    "lines": [
+      "Elizabeth line"
+    ],
+    "modes": [
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        821.99,
+        241.39,
+        22.37,
+        8.74
+      ]
+    ],
+    "id": "station-maryland"
+  },
+  {
+    "name": "Marylebone",
+    "geo": [
+      -0.163207,
+      51.522322
+    ],
+    "lines": [
+      "Bakerloo"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        375.56,
+        267.99,
+        27.36,
+        8.74
+      ]
+    ],
+    "id": "station-marylebone"
+  },
+  {
+    "name": "Merton Park",
+    "geo": [
+      -0.201219,
+      51.413589
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        349.45,
+        575.64,
+        18.39,
+        12.79
+      ]
+    ],
+    "id": "station-mertonpark"
+  },
+  {
+    "name": "Mile End",
+    "geo": [
+      -0.03364,
+      51.525122
+    ],
+    "lines": [
+      "Central",
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        721.69,
+        305.19,
+        12.38,
+        12.72
+      ]
+    ],
+    "id": "station-mileend"
+  },
+  {
+    "name": "Mill Hill East",
+    "geo": [
+      -0.209986,
+      51.608229
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        489.04,
+        116.45,
+        28.91,
+        8.74
+      ]
+    ],
+    "id": "station-millhilleast"
+  },
+  {
+    "name": "Mitcham",
+    "geo": [
+      -0.1709,
+      51.39749
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        462.4,
+        631.16,
+        21.12,
+        8.74
+      ],
+      [
+        516.0,
+        599.96,
+        21.12,
+        8.74
+      ]
+    ],
+    "id": "station-mitcham"
+  },
+  {
+    "name": "Mitcham Junction",
+    "geo": [
+      -0.158263,
+      51.392868
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        498.33,
+        631.05,
+        21.14,
+        12.88
+      ]
+    ],
+    "id": "station-mitchamjunction"
+  },
+  {
+    "name": "Monument",
+    "geo": [
+      -0.085969,
+      51.5107
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        589.62,
+        363.85,
+        25.66,
+        8.74
+      ]
+    ],
+    "id": "station-monument"
+  },
+  {
+    "name": "Moor Park",
+    "geo": [
+      -0.432454,
+      51.629845
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        173.07,
+        110.62,
+        24.11,
+        8.74
+      ],
+      [
+        40.18,
+        680.1,
+        24.11,
+        8.74
+      ]
+    ],
+    "id": "station-moorpark"
+  },
+  {
+    "name": "Moorgate",
+    "geo": [
+      -0.088322,
+      51.518176
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City",
+      "Metropolitan",
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        560.2,
+        328.56,
+        22.74,
+        8.74
+      ]
+    ],
+    "id": "station-moorgate"
+  },
+  {
+    "name": "Morden",
+    "geo": [
+      -0.194839,
+      51.402142
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        320.25,
+        609.4,
+        19.14,
+        8.74
+      ],
+      [
+        347.81,
+        636.17,
+        19.18,
+        8.74
+      ]
+    ],
+    "id": "station-morden"
+  },
+  {
+    "name": "Morden Road",
+    "geo": [
+      -0.192834,
+      51.408874
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        391.83,
+        631.16,
+        19.18,
+        12.88
+      ]
+    ],
+    "id": "station-mordenroad"
+  },
+  {
+    "name": "Mornington Crescent",
+    "geo": [
+      -0.138789,
+      51.534679
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        470.38,
+        250.9,
+        26.96,
+        12.72
+      ]
+    ],
+    "id": "station-morningtoncrescent"
+  },
+  {
+    "name": "Mudchute",
+    "geo": [
+      -0.014738,
+      51.490704
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        731.13,
+        466.56,
+        23.85,
+        8.74
+      ]
+    ],
+    "id": "station-mudchute"
+  },
+  {
+    "name": "Neasden",
+    "geo": [
+      -0.249837,
+      51.553986
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        331.99,
+        179.65,
+        21.07,
+        8.74
+      ]
+    ],
+    "id": "station-neasden"
+  },
+  {
+    "name": "New Addington",
+    "geo": [
+      -0.017412,
+      51.342593
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        816.6,
+        681.76,
+        34.81,
+        8.74
+      ]
+    ],
+    "id": "station-newaddington"
+  },
+  {
+    "name": "New Cross",
+    "geo": [
+      -0.032441,
+      51.476344
+    ],
+    "lines": [
+      "Southeastern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        686.18,
+        487.02,
+        15.01,
+        12.72
+      ]
+    ],
+    "id": "station-newcross"
+  },
+  {
+    "name": "New Cross Gate",
+    "geo": [
+      -0.040399,
+      51.475128
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        659.32,
+        487.13,
+        15.01,
+        16.74
+      ]
+    ],
+    "id": "station-newcrossgate"
+  },
+  {
+    "name": "Newbury Park",
+    "geo": [
+      0.090004,
+      51.575726
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        881.83,
+        177.43,
+        22.27,
+        12.72
+      ]
+    ],
+    "id": "station-newburypark"
+  },
+  {
+    "name": "Nine Elms",
+    "geo": [
+      -0.128476,
+      51.479912
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        404.33,
+        488.44,
+        13.6,
+        12.67
+      ]
+    ],
+    "id": "station-nineelms"
+  },
+  {
+    "name": "North Acton",
+    "geo": [
+      -0.259755,
+      51.523524
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        243.36,
+        361.15,
+        15.75,
+        12.72
+      ]
+    ],
+    "id": "station-northacton"
+  },
+  {
+    "name": "North Ealing",
+    "geo": [
+      -0.288868,
+      51.517505
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        168.33,
+        323.83,
+        15.75,
+        12.79
+      ]
+    ],
+    "id": "station-northealing"
+  },
+  {
+    "name": "North Greenwich",
+    "geo": [
+      0.004287,
+      51.50047
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        779.93,
+        428.85,
+        25.25,
+        12.72
+      ]
+    ],
+    "id": "station-northgreenwich"
+  },
+  {
+    "name": "North Harrow",
+    "geo": [
+      -0.362408,
+      51.584872
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        213.61,
+        151.83,
+        31.67,
+        8.74
+      ]
+    ],
+    "id": "station-northharrow"
+  },
+  {
+    "name": "North Wembley",
+    "geo": [
+      -0.303984,
+      51.562596
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        248.37,
+        188.5,
+        35.79,
+        8.74
+      ]
+    ],
+    "id": "station-northwembley"
+  },
+  {
+    "name": "Northfields",
+    "geo": [
+      -0.314719,
+      51.499319
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        137.27,
+        411.97,
+        26.65,
+        8.74
+      ]
+    ],
+    "id": "station-northfields"
+  },
+  {
+    "name": "Northolt",
+    "geo": [
+      -0.368699,
+      51.548236
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        92.75,
+        201.38,
+        21.41,
+        8.74
+      ]
+    ],
+    "id": "station-northolt"
+  },
+  {
+    "name": "Northwick Park",
+    "geo": [
+      -0.318056,
+      51.578481
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        250.9,
+        160.04,
+        24.86,
+        12.72
+      ]
+    ],
+    "id": "station-northwickpark"
+  },
+  {
+    "name": "Northwood",
+    "geo": [
+      -0.423829,
+      51.611053
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        183.12,
+        120.73,
+        34.6,
+        16.38
+      ]
+    ],
+    "id": "station-northwood"
+  },
+  {
+    "name": "Northwood Hills",
+    "geo": [
+      -0.409464,
+      51.600572
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        190.72,
+        128.38,
+        37.02,
+        8.74
+      ]
+    ],
+    "id": "station-northwoodhills"
+  },
+  {
+    "name": "Norwood Junction",
+    "geo": [
+      -0.075221,
+      51.397019
+    ],
+    "lines": [
+      "Southeastern",
+      "Southern",
+      "Thameslink",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        678.55,
+        570.61,
+        41.0,
+        8.74
+      ]
+    ],
+    "id": "station-norwoodjunction"
+  },
+  {
+    "name": "Notting Hill Gate",
+    "geo": [
+      -0.196104,
+      51.509128
+    ],
+    "lines": [
+      "Central",
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        355.24,
+        347.55,
+        21.33,
+        12.79
+      ]
+    ],
+    "id": "station-nottinghillgate"
+  },
+  {
+    "name": "Oakwood",
+    "geo": [
+      -0.132182,
+      51.647726
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        596.14,
+        77.81,
+        23.1,
+        8.74
+      ]
+    ],
+    "id": "station-oakwood"
+  },
+  {
+    "name": "Old Street",
+    "geo": [
+      -0.08777,
+      51.525864
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        584.09,
+        284.5,
+        16.01,
+        12.72
+      ]
+    ],
+    "id": "station-oldstreet"
+  },
+  {
+    "name": "Osterley",
+    "geo": [
+      -0.352224,
+      51.481274
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        124.69,
+        424.74,
+        21.13,
+        8.74
+      ]
+    ],
+    "id": "station-osterley"
+  },
+  {
+    "name": "Oval",
+    "geo": [
+      -0.112439,
+      51.48185
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        476.46,
+        514.9,
+        13.27,
+        8.74
+      ]
+    ],
+    "id": "station-oval"
+  },
+  {
+    "name": "Oxford Circus",
+    "geo": [
+      -0.141903,
+      51.515224
+    ],
+    "lines": [
+      "Bakerloo",
+      "Central",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        450.42,
+        338.0,
+        31.44,
+        8.74
+      ]
+    ],
+    "id": "station-oxfordcircus"
+  },
+  {
+    "name": "Paddington",
+    "geo": [
+      -0.177107,
+      51.516449
+    ],
+    "lines": [
+      "Bakerloo",
+      "Circle",
+      "District",
+      "Elizabeth line",
+      "Great Western Railway",
+      "Hammersmith & City",
+      "Heathrow Express"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail",
+      "tube"
+    ],
+    "rects": [
+      [
+        362.81,
+        298.62,
+        26.36,
+        8.74
+      ]
+    ],
+    "id": "station-paddington"
+  },
+  {
+    "name": "Park Royal",
+    "geo": [
+      -0.284341,
+      51.527123
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        150.52,
+        307.02,
+        14.96,
+        12.72
+      ]
+    ],
+    "id": "station-parkroyal"
+  },
+  {
+    "name": "Parsons Green",
+    "geo": [
+      -0.20117,
+      51.475277
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        299.94,
+        456.22,
+        32.37,
+        8.74
+      ]
+    ],
+    "id": "station-parsonsgreen"
+  },
+  {
+    "name": "Peckham Rye",
+    "geo": [
+      -0.069414,
+      51.470034
+    ],
+    "lines": [
+      "Southeastern",
+      "Southern",
+      "Thameslink",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        574.89,
+        496.99,
+        30.09,
+        8.74
+      ]
+    ],
+    "id": "station-peckhamrye"
+  },
+  {
+    "name": "Penge West",
+    "geo": [
+      -0.06084,
+      51.417555
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        677.78,
+        548.94,
+        27.12,
+        8.74
+      ]
+    ],
+    "id": "station-pengewest"
+  },
+  {
+    "name": "Perivale",
+    "geo": [
+      -0.323446,
+      51.536717
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        130.71,
+        271.42,
+        19.77,
+        8.74
+      ]
+    ],
+    "id": "station-perivale"
+  },
+  {
+    "name": "Phipps Bridge",
+    "geo": [
+      -0.18164,
+      51.403979
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        416.2,
+        631.16,
+        17.17,
+        12.88
+      ]
+    ],
+    "id": "station-phippsbridge"
+  },
+  {
+    "name": "Piccadilly Circus",
+    "geo": [
+      -0.133798,
+      51.51005
+    ],
+    "lines": [
+      "Bakerloo",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        449.87,
+        366.23,
+        22.66,
+        12.72
+      ]
+    ],
+    "id": "station-piccadillycircus"
+  },
+  {
+    "name": "Pimlico",
+    "geo": [
+      -0.133761,
+      51.489097
+    ],
+    "lines": [
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        412.4,
+        454.73,
+        18.6,
+        8.74
+      ]
+    ],
+    "id": "station-pimlico"
+  },
+  {
+    "name": "Pinner",
+    "geo": [
+      -0.381161,
+      51.592901
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        204.43,
+        141.06,
+        16.66,
+        8.74
+      ]
+    ],
+    "id": "station-pinner"
+  },
+  {
+    "name": "Plaistow",
+    "geo": [
+      0.017451,
+      51.531341
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        824.49,
+        328.36,
+        21.03,
+        8.74
+      ]
+    ],
+    "id": "station-plaistow"
+  },
+  {
+    "name": "Pontoon Dock",
+    "geo": [
+      0.032115,
+      51.502212
+    ],
+    "lines": [
+      "129",
+      "241",
+      "330",
+      "DLR"
+    ],
+    "modes": [
+      "bus",
+      "dlr"
+    ],
+    "rects": [
+      [
+        850.52,
+        437.61,
+        20.91,
+        12.72
+      ]
+    ],
+    "id": "station-pontoondock"
+  },
+  {
+    "name": "Poplar",
+    "geo": [
+      -0.017384,
+      51.507744
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        758.31,
+        380.82,
+        16.79,
+        8.74
+      ]
+    ],
+    "id": "station-poplar"
+  },
+  {
+    "name": "Preston Road",
+    "geo": [
+      -0.295107,
+      51.571972
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        290.65,
+        160.58,
+        19.27,
+        12.88
+      ]
+    ],
+    "id": "station-prestonroad"
+  },
+  {
+    "name": "Prince Regent",
+    "geo": [
+      0.034158,
+      51.509263
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        909.59,
+        414.15,
+        31.0,
+        8.74
+      ]
+    ],
+    "id": "station-princeregent"
+  },
+  {
+    "name": "Pudding Mill Lane",
+    "geo": [
+      -0.012755,
+      51.534302
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        783.36,
+        288.65,
+        21.84,
+        12.72
+      ]
+    ],
+    "id": "station-puddingmilllane"
+  },
+  {
+    "name": "Putney Bridge",
+    "geo": [
+      -0.208731,
+      51.468262
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        300.43,
+        465.88,
+        31.43,
+        8.74
+      ]
+    ],
+    "id": "station-putneybridge"
+  },
+  {
+    "name": "Queens Park",
+    "geo": [
+      -0.204985,
+      51.533966
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        263.41,
+        257.6,
+        29.89,
+        8.74
+      ]
+    ],
+    "id": "station-queenspark"
+  },
+  {
+    "name": "Queens Road Peckham",
+    "geo": [
+      -0.057313,
+      51.473566
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        587.06,
+        478.31,
+        32.7,
+        12.79
+      ]
+    ],
+    "id": "station-queensroadpeckham"
+  },
+  {
+    "name": "Queensbury",
+    "geo": [
+      -0.286219,
+      51.594188
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        315.59,
+        143.48,
+        28.13,
+        8.74
+      ]
+    ],
+    "id": "station-queensbury"
+  },
+  {
+    "name": "Queensway",
+    "geo": [
+      -0.187152,
+      51.510312
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        360.72,
+        361.25,
+        27.18,
+        8.74
+      ]
+    ],
+    "id": "station-queensway"
+  },
+  {
+    "name": "Ravenscourt Park",
+    "geo": [
+      -0.235881,
+      51.494122
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        262.02,
+        409.22,
+        28.45,
+        12.79
+      ]
+    ],
+    "id": "station-ravenscourtpark"
+  },
+  {
+    "name": "Rayners Lane",
+    "geo": [
+      -0.371127,
+      51.575147
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        143.47,
+        153.3,
+        19.55,
+        12.79
+      ]
+    ],
+    "id": "station-raynerslane"
+  },
+  {
+    "name": "Reading",
+    "geo": [
+      -0.971863,
+      51.458786
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway",
+      "South Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        177.09,
+        19.25,
+        8.74
+      ]
+    ],
+    "id": "station-reading"
+  },
+  {
+    "name": "Rectory Road",
+    "geo": [
+      -0.068267,
+      51.558502
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        666.71,
+        219.87,
+        30.22,
+        8.74
+      ]
+    ],
+    "id": "station-rectoryroad"
+  },
+  {
+    "name": "Redbridge",
+    "geo": [
+      0.04536,
+      51.576243
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        845.31,
+        181.57,
+        23.77,
+        8.74
+      ]
+    ],
+    "id": "station-redbridge"
+  },
+  {
+    "name": "Reeves Corner",
+    "geo": [
+      -0.106408,
+      51.375279
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        601.48,
+        611.28,
+        32.55,
+        8.74
+      ]
+    ],
+    "id": "station-reevescorner"
+  },
+  {
+    "name": "Regent's Park",
+    "geo": [
+      -0.146444,
+      51.523344
+    ],
+    "lines": [
+      "Bakerloo"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        436.72,
+        301.06,
+        20.67,
+        12.72
+      ]
+    ],
+    "id": "station-regentspark"
+  },
+  {
+    "name": "Richmond",
+    "geo": [
+      -0.301558,
+      51.463061
+    ],
+    "lines": [
+      "District",
+      "Mildmay",
+      "South Western Railway"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        148.54,
+        482.03,
+        23.79,
+        8.74
+      ]
+    ],
+    "id": "station-richmond"
+  },
+  {
+    "name": "Rickmansworth",
+    "geo": [
+      -0.473703,
+      51.640207
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        123.7,
+        103.9,
+        34.73,
+        8.74
+      ]
+    ],
+    "id": "station-rickmansworth"
+  },
+  {
+    "name": "Roding Valley",
+    "geo": [
+      0.043647,
+      51.617199
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        834.14,
+        117.7,
+        17.45,
+        12.79
+      ]
+    ],
+    "id": "station-rodingvalley"
+  },
+  {
+    "name": "Romford",
+    "geo": [
+      0.183237,
+      51.574829
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Greater Anglia",
+      "Liberty"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        921.39,
+        181.94,
+        21.39,
+        8.74
+      ]
+    ],
+    "id": "station-romford"
+  },
+  {
+    "name": "Rotherhithe",
+    "geo": [
+      -0.052048,
+      51.500817
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        647.24,
+        404.92,
+        27.62,
+        8.74
+      ]
+    ],
+    "id": "station-rotherhithe"
+  },
+  {
+    "name": "Royal Albert",
+    "geo": [
+      0.045935,
+      51.508357
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        909.59,
+        427.0,
+        28.62,
+        8.74
+      ]
+    ],
+    "id": "station-royalalbert"
+  },
+  {
+    "name": "Royal Oak",
+    "geo": [
+      -0.188748,
+      51.519113
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        302.1,
+        296.52,
+        23.96,
+        8.74
+      ]
+    ],
+    "id": "station-royaloak"
+  },
+  {
+    "name": "Royal Victoria",
+    "geo": [
+      0.018497,
+      51.509336
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        849.03,
+        369.92,
+        31.32,
+        8.74
+      ]
+    ],
+    "id": "station-royalvictoria"
+  },
+  {
+    "name": "Ruislip",
+    "geo": [
+      -0.421898,
+      51.571354
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        121.06,
+        142.56,
+        17.2,
+        8.74
+      ]
+    ],
+    "id": "station-ruislip"
+  },
+  {
+    "name": "Ruislip Gardens",
+    "geo": [
+      -0.41071,
+      51.560736
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        94.94,
+        160.08,
+        20.24,
+        12.72
+      ]
+    ],
+    "id": "station-ruislipgardens"
+  },
+  {
+    "name": "Ruislip Manor",
+    "geo": [
+      -0.412973,
+      51.573202
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        126.0,
+        130.1,
+        30.86,
+        8.74
+      ]
+    ],
+    "id": "station-ruislipmanor"
+  },
+  {
+    "name": "Russell Square",
+    "geo": [
+      -0.124285,
+      51.523073
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        514.36,
+        296.51,
+        18.08,
+        12.87
+      ]
+    ],
+    "id": "station-russellsquare"
+  },
+  {
+    "name": "Sandilands",
+    "geo": [
+      -0.078041,
+      51.375024
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        773.26,
+        618.59,
+        25.12,
+        8.74
+      ]
+    ],
+    "id": "station-sandilands"
+  },
+  {
+    "name": "Seven Kings",
+    "geo": [
+      0.0971,
+      51.564026
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Greater Anglia"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        890.7,
+        229.54,
+        15.66,
+        12.72
+      ]
+    ],
+    "id": "station-sevenkings"
+  },
+  {
+    "name": "Seven Sisters",
+    "geo": [
+      -0.07527,
+      51.582268
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Victoria",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        659.51,
+        167.42,
+        16.99,
+        12.72
+      ]
+    ],
+    "id": "station-sevensisters"
+  },
+  {
+    "name": "Shadwell",
+    "geo": [
+      -0.056934,
+      51.511284
+    ],
+    "lines": [
+      "DLR",
+      "Windrush"
+    ],
+    "modes": [
+      "dlr",
+      "overground"
+    ],
+    "rects": [
+      [
+        678.81,
+        365.35,
+        22.12,
+        8.74
+      ]
+    ],
+    "id": "station-shadwell"
+  },
+  {
+    "name": "Shenfield",
+    "geo": [
+      0.329851,
+      51.630877
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Greater Anglia"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        979.56,
+        122.72,
+        22.49,
+        8.74
+      ]
+    ],
+    "id": "station-shenfield"
+  },
+  {
+    "name": "Shepherd's Bush Market",
+    "geo": [
+      -0.226375,
+      51.505579
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        261.85,
+        370.83,
+        28.48,
+        13.0
+      ]
+    ],
+    "id": "station-shepherdsbushmarket"
+  },
+  {
+    "name": "Shepherds Bush",
+    "geo": [
+      -0.217654,
+      51.505285
+    ],
+    "lines": [
+      "Central",
+      "Mildmay",
+      "Southern"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        318.5,
+        346.65,
+        25.68,
+        12.79
+      ]
+    ],
+    "id": "station-shepherdsbush"
+  },
+  {
+    "name": "Shoreditch High Street",
+    "geo": [
+      -0.075246,
+      51.523375
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        648.53,
+        287.31,
+        26.01,
+        12.87
+      ]
+    ],
+    "id": "station-shoreditchhighstreet"
+  },
+  {
+    "name": "Silver Street",
+    "geo": [
+      -0.06724,
+      51.614688
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        678.81,
+        118.06,
+        28.16,
+        8.74
+      ]
+    ],
+    "id": "station-silverstreet"
+  },
+  {
+    "name": "Sloane Square",
+    "geo": [
+      -0.156377,
+      51.49227
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        402.66,
+        408.88,
+        17.43,
+        12.72
+      ]
+    ],
+    "id": "station-sloanesquare"
+  },
+  {
+    "name": "Slough",
+    "geo": [
+      -0.59151,
+      51.51188
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        266.6,
+        17.32,
+        8.74
+      ]
+    ],
+    "id": "station-slough"
+  },
+  {
+    "name": "Snaresbrook",
+    "geo": [
+      0.02144,
+      51.580678
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        800.26,
+        177.5,
+        28.43,
+        8.74
+      ]
+    ],
+    "id": "station-snaresbrook"
+  },
+  {
+    "name": "South Acton",
+    "geo": [
+      -0.270157,
+      51.499695
+    ],
+    "lines": [
+      "Mildmay"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        191.86,
+        380.46,
+        28.44,
+        8.74
+      ]
+    ],
+    "id": "station-southacton"
+  },
+  {
+    "name": "South Ealing",
+    "geo": [
+      -0.307424,
+      51.501003
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        128.83,
+        392.41,
+        15.73,
+        12.57
+      ]
+    ],
+    "id": "station-southealing"
+  },
+  {
+    "name": "South Hampstead",
+    "geo": [
+      -0.178878,
+      51.541432
+    ],
+    "lines": [
+      "Lioness"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        414.91,
+        244.88,
+        39.07,
+        8.74
+      ]
+    ],
+    "id": "station-southhampstead"
+  },
+  {
+    "name": "South Harrow",
+    "geo": [
+      -0.352492,
+      51.564888
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        168.77,
+        190.77,
+        31.46,
+        8.74
+      ]
+    ],
+    "id": "station-southharrow"
+  },
+  {
+    "name": "South Kensington",
+    "geo": [
+      -0.174138,
+      51.494094
+    ],
+    "lines": [
+      "Circle",
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        367.71,
+        409.08,
+        26.14,
+        12.79
+      ]
+    ],
+    "id": "station-southkensington"
+  },
+  {
+    "name": "South Kenton",
+    "geo": [
+      -0.308462,
+      51.570214
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        253.09,
+        179.39,
+        31.06,
+        8.74
+      ]
+    ],
+    "id": "station-southkenton"
+  },
+  {
+    "name": "South Quay",
+    "geo": [
+      -0.015975,
+      51.50005
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        728.0,
+        445.76,
+        27.12,
+        8.74
+      ]
+    ],
+    "id": "station-southquay"
+  },
+  {
+    "name": "South Ruislip",
+    "geo": [
+      -0.398915,
+      51.556853
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        97.25,
+        178.62,
+        17.2,
+        12.79
+      ]
+    ],
+    "id": "station-southruislip"
+  },
+  {
+    "name": "South Tottenham",
+    "geo": [
+      -0.072103,
+      51.580372
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        680.0,
+        151.9,
+        38.61,
+        8.74
+      ]
+    ],
+    "id": "station-southtottenham"
+  },
+  {
+    "name": "South Wimbledon",
+    "geo": [
+      -0.192005,
+      51.415309
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        384.35,
+        607.46,
+        39.66,
+        8.74
+      ]
+    ],
+    "id": "station-southwimbledon"
+  },
+  {
+    "name": "South Woodford",
+    "geo": [
+      0.027338,
+      51.591907
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        791.57,
+        158.54,
+        36.85,
+        8.74
+      ]
+    ],
+    "id": "station-southwoodford"
+  },
+  {
+    "name": "Southall",
+    "geo": [
+      -0.37861,
+      51.505957
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        96.03,
+        355.56,
+        20.45,
+        8.74
+      ]
+    ],
+    "id": "station-southall"
+  },
+  {
+    "name": "Southbury",
+    "geo": [
+      -0.052437,
+      51.648705
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        685.29,
+        96.23,
+        24.61,
+        8.74
+      ]
+    ],
+    "id": "station-southbury"
+  },
+  {
+    "name": "Southfields",
+    "geo": [
+      -0.206602,
+      51.445073
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        305.34,
+        498.48,
+        26.43,
+        8.74
+      ]
+    ],
+    "id": "station-southfields"
+  },
+  {
+    "name": "Southgate",
+    "geo": [
+      -0.127816,
+      51.632315
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        548.88,
+        115.48,
+        23.94,
+        8.74
+      ],
+      [
+        595.58,
+        87.8,
+        23.94,
+        8.74
+      ]
+    ],
+    "id": "station-southgate"
+  },
+  {
+    "name": "Southwark",
+    "geo": [
+      -0.105331,
+      51.50427
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        503.05,
+        442.84,
+        25.3,
+        8.74
+      ]
+    ],
+    "id": "station-southwark"
+  },
+  {
+    "name": "St James Street",
+    "geo": [
+      -0.032918,
+      51.580981
+    ],
+    "lines": [
+      "Weaver"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        732.77,
+        213.62,
+        21.48,
+        12.72
+      ]
+    ],
+    "id": "station-stjamesstreet"
+  },
+  {
+    "name": "St. James's Park",
+    "geo": [
+      -0.133608,
+      51.499544
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        436.84,
+        408.75,
+        24.52,
+        12.79
+      ]
+    ],
+    "id": "station-stjamesspark"
+  },
+  {
+    "name": "St. John's Wood",
+    "geo": [
+      -0.173948,
+      51.534521
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        417.97,
+        266.5,
+        34.69,
+        8.74
+      ]
+    ],
+    "id": "station-stjohnswood"
+  },
+  {
+    "name": "St. Paul's",
+    "geo": [
+      -0.097567,
+      51.514936
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        551.18,
+        352.51,
+        20.69,
+        8.74
+      ]
+    ],
+    "id": "station-stpauls"
+  },
+  {
+    "name": "Stamford Brook",
+    "geo": [
+      -0.245704,
+      51.494917
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        240.82,
+        409.28,
+        22.4,
+        12.79
+      ]
+    ],
+    "id": "station-stamfordbrook"
+  },
+  {
+    "name": "Stamford Hill",
+    "geo": [
+      -0.076682,
+      51.574467
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        644.75,
+        186.11,
+        30.46,
+        8.74
+      ]
+    ],
+    "id": "station-stamfordhill"
+  },
+  {
+    "name": "Stanmore",
+    "geo": [
+      -0.303266,
+      51.619839
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        316.52,
+        117.77,
+        23.07,
+        8.74
+      ]
+    ],
+    "id": "station-stanmore"
+  },
+  {
+    "name": "Star Lane",
+    "geo": [
+      0.004156,
+      51.520786
+    ],
+    "lines": [
+      "276",
+      "323",
+      "DLR"
+    ],
+    "modes": [
+      "bus",
+      "dlr"
+    ],
+    "rects": [
+      [
+        822.64,
+        346.22,
+        22.2,
+        8.74
+      ]
+    ],
+    "id": "station-starlane"
+  },
+  {
+    "name": "Stepney Green",
+    "geo": [
+      -0.046596,
+      51.521858
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        714.84,
+        328.36,
+        19.95,
+        12.72
+      ]
+    ],
+    "id": "station-stepneygreen"
+  },
+  {
+    "name": "Stockwell",
+    "geo": [
+      -0.122644,
+      51.472184
+    ],
+    "lines": [
+      "Northern",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        467.38,
+        522.51,
+        23.53,
+        8.74
+      ]
+    ],
+    "id": "station-stockwell"
+  },
+  {
+    "name": "Stoke Newington",
+    "geo": [
+      -0.072887,
+      51.565233
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        642.75,
+        203.23,
+        38.04,
+        8.74
+      ]
+    ],
+    "id": "station-stokenewington"
+  },
+  {
+    "name": "Stonebridge Park",
+    "geo": [
+      -0.275828,
+      51.544111
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        246.71,
+        207.96,
+        37.44,
+        8.74
+      ]
+    ],
+    "id": "station-stonebridgepark"
+  },
+  {
+    "name": "Stratford",
+    "geo": [
+      -0.003397,
+      51.541895
+    ],
+    "lines": [
+      "Central",
+      "DLR",
+      "Elizabeth line",
+      "Greater Anglia",
+      "Jubilee",
+      "Mildmay",
+      "c2c"
+    ],
+    "modes": [
+      "dlr",
+      "elizabeth-line",
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        815.8,
+        253.14,
+        21.96,
+        8.74
+      ]
+    ],
+    "id": "station-stratford"
+  },
+  {
+    "name": "Stratford High Street",
+    "geo": [
+      -0.001078,
+      51.538196
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        822.55,
+        273.56,
+        26.01,
+        12.72
+      ]
+    ],
+    "id": "station-stratfordhighstreet"
+  },
+  {
+    "name": "Stratford International",
+    "geo": [
+      -0.009638,
+      51.545265
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        752.6,
+        231.43,
+        29.72,
+        12.72
+      ]
+    ],
+    "id": "station-stratfordinternational"
+  },
+  {
+    "name": "Sudbury Hill",
+    "geo": [
+      -0.336435,
+      51.556946
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        169.33,
+        210.12,
+        20.33,
+        12.79
+      ]
+    ],
+    "id": "station-sudburyhill"
+  },
+  {
+    "name": "Sudbury Town",
+    "geo": [
+      -0.315745,
+      51.550815
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        169.3,
+        234.31,
+        32.64,
+        8.74
+      ]
+    ],
+    "id": "station-sudburytown"
+  },
+  {
+    "name": "Surrey Quays",
+    "geo": [
+      -0.047519,
+      51.493196
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        644.26,
+        437.59,
+        30.28,
+        8.74
+      ]
+    ],
+    "id": "station-surreyquays"
+  },
+  {
+    "name": "Swiss Cottage",
+    "geo": [
+      -0.174894,
+      51.543681
+    ],
+    "lines": [
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        407.77,
+        258.24,
+        31.57,
+        8.74
+      ]
+    ],
+    "id": "station-swisscottage"
+  },
+  {
+    "name": "Sydenham",
+    "geo": [
+      -0.054244,
+      51.427248
+    ],
+    "lines": [
+      "Southern",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        649.81,
+        536.73,
+        24.48,
+        8.74
+      ]
+    ],
+    "id": "station-sydenham"
+  },
+  {
+    "name": "Taplow",
+    "geo": [
+      -0.68137,
+      51.523562
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        228.14,
+        18.52,
+        8.74
+      ]
+    ],
+    "id": "station-taplow"
+  },
+  {
+    "name": "Temple",
+    "geo": [
+      -0.11426,
+      51.511006
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        513.01,
+        408.81,
+        18.87,
+        8.74
+      ]
+    ],
+    "id": "station-temple"
+  },
+  {
+    "name": "Theobalds Grove",
+    "geo": [
+      -0.034831,
+      51.692457
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        708.36,
+        73.84,
+        37.46,
+        8.74
+      ]
+    ],
+    "id": "station-theobaldsgrove"
+  },
+  {
+    "name": "Therapia Lane",
+    "geo": [
+      -0.129045,
+      51.385697
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        544.29,
+        630.99,
+        20.97,
+        12.88
+      ]
+    ],
+    "id": "station-therapialane"
+  },
+  {
+    "name": "Theydon Bois",
+    "geo": [
+      0.103085,
+      51.671759
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        834.4,
+        68.52,
+        30.52,
+        8.74
+      ]
+    ],
+    "id": "station-theydonbois"
+  },
+  {
+    "name": "Tooting Bec",
+    "geo": [
+      -0.159736,
+      51.435678
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        415.03,
+        577.31,
+        27.17,
+        8.74
+      ]
+    ],
+    "id": "station-tootingbec"
+  },
+  {
+    "name": "Tooting Broadway",
+    "geo": [
+      -0.168374,
+      51.42763
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        405.87,
+        586.17,
+        39.83,
+        8.74
+      ]
+    ],
+    "id": "station-tootingbroadway"
+  },
+  {
+    "name": "Tottenham Court Road",
+    "geo": [
+      -0.130396,
+      51.515005
+    ],
+    "lines": [
+      "Central",
+      "Elizabeth line",
+      "Northern"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "tube"
+    ],
+    "rects": [
+      [
+        492.28,
+        314.11,
+        27.07,
+        16.71
+      ]
+    ],
+    "id": "station-tottenhamcourtroad"
+  },
+  {
+    "name": "Tottenham Hale",
+    "geo": [
+      -0.060241,
+      51.588108
+    ],
+    "lines": [
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        683.59,
+        181.4,
+        25.92,
+        12.88
+      ]
+    ],
+    "id": "station-tottenhamhale"
+  },
+  {
+    "name": "Totteridge & Whetstone",
+    "geo": [
+      -0.17921,
+      51.630597
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        474.96,
+        86.69,
+        51.63,
+        8.74
+      ]
+    ],
+    "id": "station-totteridgeandwhetstone"
+  },
+  {
+    "name": "Tower Gateway",
+    "geo": [
+      -0.074818,
+      51.510617
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        643.96,
+        362.7,
+        21.4,
+        12.78
+      ]
+    ],
+    "id": "station-towergateway"
+  },
+  {
+    "name": "Tower Hill",
+    "geo": [
+      -0.076546,
+      51.509971
+    ],
+    "lines": [
+      "Circle",
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        616.16,
+        363.91,
+        16.63,
+        12.79
+      ]
+    ],
+    "id": "station-towerhill"
+  },
+  {
+    "name": "Tufnell Park",
+    "geo": [
+      -0.138433,
+      51.556822
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        529.6,
+        184.74,
+        27.97,
+        8.74
+      ]
+    ],
+    "id": "station-tufnellpark"
+  },
+  {
+    "name": "Turkey Street",
+    "geo": [
+      -0.047217,
+      51.672628
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        697.73,
+        84.64,
+        30.73,
+        8.74
+      ]
+    ],
+    "id": "station-turkeystreet"
+  },
+  {
+    "name": "Turnham Green",
+    "geo": [
+      -0.254555,
+      51.495148
+    ],
+    "lines": [
+      "District",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        219.29,
+        409.37,
+        21.78,
+        12.79
+      ]
+    ],
+    "id": "station-turnhamgreen"
+  },
+  {
+    "name": "Turnpike Lane",
+    "geo": [
+      -0.102953,
+      51.590272
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        598.08,
+        133.99,
+        21.43,
+        12.72
+      ]
+    ],
+    "id": "station-turnpikelane"
+  },
+  {
+    "name": "Twyford",
+    "geo": [
+      -0.863293,
+      51.475534
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        42.89,
+        194.17,
+        20.77,
+        8.74
+      ]
+    ],
+    "id": "station-twyford"
+  },
+  {
+    "name": "Upminster",
+    "geo": [
+      0.25088,
+      51.559018
+    ],
+    "lines": [
+      "District",
+      "Liberty",
+      "c2c"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        987.29,
+        236.44,
+        25.01,
+        8.74
+      ]
+    ],
+    "id": "station-upminster"
+  },
+  {
+    "name": "Upminster Bridge",
+    "geo": [
+      0.235809,
+      51.55856
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        975.34,
+        250.48,
+        25.01,
+        12.72
+      ]
+    ],
+    "id": "station-upminsterbridge"
+  },
+  {
+    "name": "Upney",
+    "geo": [
+      0.10153,
+      51.538372
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        907.99,
+        317.84,
+        16.92,
+        8.74
+      ]
+    ],
+    "id": "station-upney"
+  },
+  {
+    "name": "Upper Holloway",
+    "geo": [
+      -0.129513,
+      51.563631
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        537.72,
+        171.65,
+        36.44,
+        8.74
+      ]
+    ],
+    "id": "station-upperholloway"
+  },
+  {
+    "name": "Upton Park",
+    "geo": [
+      0.035263,
+      51.53534
+    ],
+    "lines": [
+      "District",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        844.91,
+        328.37,
+        16.58,
+        12.72
+      ]
+    ],
+    "id": "station-uptonpark"
+  },
+  {
+    "name": "Uxbridge",
+    "geo": [
+      -0.477949,
+      51.546565
+    ],
+    "lines": [
+      "Metropolitan",
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        42.85,
+        141.86,
+        21.82,
+        8.74
+      ]
+    ],
+    "id": "station-uxbridge"
+  },
+  {
+    "name": "Vauxhall",
+    "geo": [
+      -0.124204,
+      51.485743
+    ],
+    "lines": [
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        410.72,
+        499.31,
+        21.12,
+        8.74
+      ]
+    ],
+    "id": "station-vauxhall"
+  },
+  {
+    "name": "Victoria",
+    "geo": [
+      -0.143102,
+      51.496359
+    ],
+    "lines": [
+      "Circle",
+      "District",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        409.95,
+        396.27,
+        19.2,
+        8.74
+      ],
+      [
+        64.73,
+        652.87,
+        24.29,
+        10.36
+      ]
+    ],
+    "id": "station-victoria"
+  },
+  {
+    "name": "Waddon Marsh",
+    "geo": [
+      -0.118016,
+      51.377076
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        586.07,
+        630.99,
+        20.45,
+        12.88
+      ]
+    ],
+    "id": "station-waddonmarsh"
+  },
+  {
+    "name": "Walthamstow Central",
+    "geo": [
+      -0.019815,
+      51.582919
+    ],
+    "lines": [
+      "Victoria",
+      "Weaver"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        756.12,
+        172.27,
+        31.91,
+        12.88
+      ]
+    ],
+    "id": "station-walthamstowcentral"
+  },
+  {
+    "name": "Walthamstow Queens Road",
+    "geo": [
+      -0.023846,
+      51.581503
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        706.59,
+        193.37,
+        31.91,
+        12.88
+      ]
+    ],
+    "id": "station-walthamstowqueensroad"
+  },
+  {
+    "name": "Wandle Park",
+    "geo": [
+      -0.113282,
+      51.373403
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        606.29,
+        630.99,
+        19.06,
+        12.88
+      ]
+    ],
+    "id": "station-wandlepark"
+  },
+  {
+    "name": "Wandsworth Road",
+    "geo": [
+      -0.13852,
+      51.470216
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        399.67,
+        514.99,
+        40.45,
+        8.74
+      ]
+    ],
+    "id": "station-wandsworthroad"
+  },
+  {
+    "name": "Wanstead",
+    "geo": [
+      0.028527,
+      51.575501
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        833.32,
+        192.5,
+        23.57,
+        8.74
+      ]
+    ],
+    "id": "station-wanstead"
+  },
+  {
+    "name": "Wanstead Park",
+    "geo": [
+      0.026213,
+      51.551693
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        846.46,
+        233.25,
+        23.57,
+        12.72
+      ]
+    ],
+    "id": "station-wansteadpark"
+  },
+  {
+    "name": "Wapping",
+    "geo": [
+      -0.055931,
+      51.504388
+    ],
+    "lines": [
+      "Windrush"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        653.6,
+        382.99,
+        21.19,
+        8.74
+      ]
+    ],
+    "id": "station-wapping"
+  },
+  {
+    "name": "Warren Street",
+    "geo": [
+      -0.138321,
+      51.524951
+    ],
+    "lines": [
+      "Northern",
+      "Victoria"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        493.15,
+        296.58,
+        18.53,
+        13.01
+      ]
+    ],
+    "id": "station-warrenstreet"
+  },
+  {
+    "name": "Warwick Avenue",
+    "geo": [
+      -0.183783,
+      51.523263
+    ],
+    "lines": [
+      "Bakerloo"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        311.23,
+        279.02,
+        21.11,
+        12.72
+      ]
+    ],
+    "id": "station-warwickavenue"
+  },
+  {
+    "name": "Waterloo",
+    "geo": [
+      -0.11478,
+      51.503299
+    ],
+    "lines": [
+      "Bakerloo",
+      "Jubilee",
+      "Northern",
+      "Waterloo & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        462.38,
+        431.5,
+        22.51,
+        8.74
+      ],
+      [
+        506.04,
+        447.29,
+        16.5,
+        7.3
+      ]
+    ],
+    "id": "station-waterloo"
+  },
+  {
+    "name": "Watford",
+    "geo": [
+      -0.417377,
+      51.657446
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        168.93,
+        81.54,
+        20.46,
+        8.74
+      ]
+    ],
+    "id": "station-watford"
+  },
+  {
+    "name": "Watford High Street",
+    "geo": [
+      -0.391711,
+      51.652655
+    ],
+    "lines": [
+      "Lioness"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        243.45,
+        57.45,
+        43.63,
+        8.74
+      ]
+    ],
+    "id": "station-watfordhighstreet"
+  },
+  {
+    "name": "Watford Junction",
+    "geo": [
+      -0.395925,
+      51.663908
+    ],
+    "lines": [
+      "Avanti West Coast",
+      "Lioness",
+      "Southern",
+      "West Midlands Trains"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        247.77,
+        42.11,
+        38.74,
+        8.74
+      ]
+    ],
+    "id": "station-watfordjunction"
+  },
+  {
+    "name": "Wellesley Road",
+    "geo": [
+      -0.097554,
+      51.37537
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        677.4,
+        609.21,
+        23.47,
+        12.88
+      ]
+    ],
+    "id": "station-wellesleyroad"
+  },
+  {
+    "name": "Wembley Central",
+    "geo": [
+      -0.296433,
+      51.552325
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness",
+      "Southern"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        246.3,
+        198.25,
+        38.71,
+        8.74
+      ]
+    ],
+    "id": "station-wembleycentral"
+  },
+  {
+    "name": "Wembley Park",
+    "geo": [
+      -0.279262,
+      51.563198
+    ],
+    "lines": [
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        321.01,
+        169.38,
+        32.65,
+        8.74
+      ]
+    ],
+    "id": "station-wembleypark"
+  },
+  {
+    "name": "West Acton",
+    "geo": [
+      -0.28098,
+      51.518001
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        195.71,
+        346.99,
+        15.75,
+        12.79
+      ]
+    ],
+    "id": "station-westacton"
+  },
+  {
+    "name": "West Brompton",
+    "geo": [
+      -0.195593,
+      51.487061
+    ],
+    "lines": [
+      "District",
+      "Mildmay",
+      "Southern"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        300.43,
+        420.49,
+        24.0,
+        12.79
+      ]
+    ],
+    "id": "station-westbrompton"
+  },
+  {
+    "name": "West Croydon",
+    "geo": [
+      -0.102585,
+      51.378428
+    ],
+    "lines": [
+      "Southern",
+      "Tram",
+      "Windrush"
+    ],
+    "modes": [
+      "national-rail",
+      "overground",
+      "tram"
+    ],
+    "rects": [
+      [
+        643.09,
+        591.46,
+        32.12,
+        8.92
+      ]
+    ],
+    "id": "station-westcroydon"
+  },
+  {
+    "name": "West Drayton",
+    "geo": [
+      -0.472234,
+      51.510055
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        43.15,
+        319.93,
+        20.02,
+        13.15
+      ]
+    ],
+    "id": "station-westdrayton"
+  },
+  {
+    "name": "West Ealing",
+    "geo": [
+      -0.320133,
+      51.513506
+    ],
+    "lines": [
+      "Elizabeth line",
+      "Great Western Railway"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "national-rail"
+    ],
+    "rects": [
+      [
+        125.35,
+        355.5,
+        15.73,
+        12.79
+      ]
+    ],
+    "id": "station-westealing"
+  },
+  {
+    "name": "West Finchley",
+    "geo": [
+      -0.188362,
+      51.609426
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        494.19,
+        105.1,
+        31.8,
+        8.74
+      ]
+    ],
+    "id": "station-westfinchley"
+  },
+  {
+    "name": "West Ham",
+    "geo": [
+      0.004482,
+      51.527894
+    ],
+    "lines": [
+      "DLR",
+      "District",
+      "Hammersmith & City",
+      "Jubilee"
+    ],
+    "modes": [
+      "dlr",
+      "tube"
+    ],
+    "rects": [
+      [
+        796.8,
+        308.9,
+        14.17,
+        12.72
+      ]
+    ],
+    "id": "station-westham"
+  },
+  {
+    "name": "West Hampstead",
+    "geo": [
+      -0.191185,
+      51.547468
+    ],
+    "lines": [
+      "Jubilee",
+      "Mildmay"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        373.07,
+        219.04,
+        26.37,
+        12.72
+      ],
+      [
+        396.74,
+        201.32,
+        26.37,
+        12.72
+      ]
+    ],
+    "id": "station-westhampstead"
+  },
+  {
+    "name": "West Harrow",
+    "geo": [
+      -0.3534,
+      51.57971
+    ],
+    "lines": [
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        197.58,
+        174.93,
+        18.77,
+        12.72
+      ]
+    ],
+    "id": "station-westharrow"
+  },
+  {
+    "name": "West India Quay",
+    "geo": [
+      -0.020311,
+      51.50703
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        759.08,
+        389.07,
+        24.94,
+        12.72
+      ]
+    ],
+    "id": "station-westindiaquay"
+  },
+  {
+    "name": "West Kensington",
+    "geo": [
+      -0.206636,
+      51.490459
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        298.65,
+        409.26,
+        26.14,
+        12.79
+      ]
+    ],
+    "id": "station-westkensington"
+  },
+  {
+    "name": "West Ruislip",
+    "geo": [
+      -0.437886,
+      51.569688
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        86.11,
+        117.3,
+        28.52,
+        8.74
+      ]
+    ],
+    "id": "station-westruislip"
+  },
+  {
+    "name": "West Silvertown",
+    "geo": [
+      0.02246,
+      51.502838
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        845.97,
+        420.06,
+        25.45,
+        12.72
+      ]
+    ],
+    "id": "station-westsilvertown"
+  },
+  {
+    "name": "Westbourne Park",
+    "geo": [
+      -0.201065,
+      51.52111
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        318.71,
+        315.5,
+        28.3,
+        12.79
+      ]
+    ],
+    "id": "station-westbournepark"
+  },
+  {
+    "name": "Westferry",
+    "geo": [
+      -0.02675,
+      51.509431
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        716.02,
+        369.9,
+        23.82,
+        8.74
+      ]
+    ],
+    "id": "station-westferry"
+  },
+  {
+    "name": "Westminster",
+    "geo": [
+      -0.124861,
+      51.50132
+    ],
+    "lines": [
+      "Circle",
+      "District",
+      "Jubilee"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        436.56,
+        396.43,
+        29.31,
+        8.74
+      ]
+    ],
+    "id": "station-westminster"
+  },
+  {
+    "name": "White City",
+    "geo": [
+      -0.224297,
+      51.511959
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        275.81,
+        346.53,
+        15.85,
+        12.79
+      ]
+    ],
+    "id": "station-whitecity"
+  },
+  {
+    "name": "White Hart Lane",
+    "geo": [
+      -0.070914,
+      51.605037
+    ],
+    "lines": [
+      "Greater Anglia",
+      "Weaver"
+    ],
+    "modes": [
+      "national-rail",
+      "overground"
+    ],
+    "rects": [
+      [
+        679.21,
+        129.35,
+        36.06,
+        8.74
+      ]
+    ],
+    "id": "station-whitehartlane"
+  },
+  {
+    "name": "Whitechapel",
+    "geo": [
+      -0.059757,
+      51.519469
+    ],
+    "lines": [
+      "District",
+      "Elizabeth line",
+      "Hammersmith & City",
+      "Windrush"
+    ],
+    "modes": [
+      "elizabeth-line",
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        677.01,
+        327.41,
+        28.85,
+        8.74
+      ]
+    ],
+    "id": "station-whitechapel"
+  },
+  {
+    "name": "Willesden Green",
+    "geo": [
+      -0.221537,
+      51.549146
+    ],
+    "lines": [
+      "Jubilee",
+      "Metropolitan"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        351.59,
+        199.78,
+        36.69,
+        8.74
+      ]
+    ],
+    "id": "station-willesdengreen"
+  },
+  {
+    "name": "Willesden Junction",
+    "geo": [
+      -0.244548,
+      51.532497
+    ],
+    "lines": [
+      "Bakerloo",
+      "Lioness",
+      "Mildmay"
+    ],
+    "modes": [
+      "overground",
+      "tube"
+    ],
+    "rects": [
+      [
+        243.07,
+        225.37,
+        41.93,
+        8.74
+      ]
+    ],
+    "id": "station-willesdenjunction"
+  },
+  {
+    "name": "Wimbledon",
+    "geo": [
+      -0.205816,
+      51.421051
+    ],
+    "lines": [
+      "District",
+      "Tram"
+    ],
+    "modes": [
+      "tram",
+      "tube"
+    ],
+    "rects": [
+      [
+        304.85,
+        522.73,
+        26.97,
+        8.74
+      ],
+      [
+        315.68,
+        565.87,
+        26.96,
+        8.74
+      ]
+    ],
+    "id": "station-wimbledon"
+  },
+  {
+    "name": "Wimbledon Park",
+    "geo": [
+      -0.199719,
+      51.434573
+    ],
+    "lines": [
+      "District"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        294.96,
+        509.98,
+        36.73,
+        8.74
+      ]
+    ],
+    "id": "station-wimbledonpark"
+  },
+  {
+    "name": "Wood Green",
+    "geo": [
+      -0.109886,
+      51.597479
+    ],
+    "lines": [
+      "Piccadilly"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        590.73,
+        121.8,
+        28.79,
+        8.74
+      ]
+    ],
+    "id": "station-woodgreen"
+  },
+  {
+    "name": "Wood Lane",
+    "geo": [
+      -0.22453,
+      51.509669
+    ],
+    "lines": [
+      "Circle",
+      "Hammersmith & City"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        264.54,
+        364.54,
+        26.15,
+        8.74
+      ]
+    ],
+    "id": "station-woodlane"
+  },
+  {
+    "name": "Wood Street",
+    "geo": [
+      -0.002405,
+      51.58658
+    ],
+    "lines": [
+      "Weaver"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        748.73,
+        148.43,
+        28.91,
+        8.74
+      ]
+    ],
+    "id": "station-woodstreet"
+  },
+  {
+    "name": "Woodford",
+    "geo": [
+      0.03397,
+      51.606899
+    ],
+    "lines": [
+      "Central"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        804.23,
+        138.66,
+        24.15,
+        8.74
+      ]
+    ],
+    "id": "station-woodford"
+  },
+  {
+    "name": "Woodgrange Park",
+    "geo": [
+      0.044423,
+      51.549264
+    ],
+    "lines": [
+      "Suffragette"
+    ],
+    "modes": [
+      "overground"
+    ],
+    "rects": [
+      [
+        869.46,
+        249.81,
+        28.78,
+        12.72
+      ]
+    ],
+    "id": "station-woodgrangepark"
+  },
+  {
+    "name": "Woodside",
+    "geo": [
+      -0.065361,
+      51.3871
+    ],
+    "lines": [
+      "Tram"
+    ],
+    "modes": [
+      "tram"
+    ],
+    "rects": [
+      [
+        830.6,
+        598.31,
+        23.5,
+        8.74
+      ]
+    ],
+    "id": "station-woodside"
+  },
+  {
+    "name": "Woodside Park",
+    "geo": [
+      -0.18542,
+      51.618014
+    ],
+    "lines": [
+      "Northern"
+    ],
+    "modes": [
+      "tube"
+    ],
+    "rects": [
+      [
+        492.54,
+        95.62,
+        33.45,
+        8.74
+      ]
+    ],
+    "id": "station-woodsidepark"
+  },
+  {
+    "name": "Woolwich",
+    "geo": [
+      0.070593,
+      51.492168
+    ],
+    "lines": [
+      "122",
+      "161",
+      "177",
+      "180",
+      "244",
+      "291",
+      "301",
+      "380",
+      "422",
+      "469",
+      "53",
+      "54",
+      "672",
+      "96",
+      "99",
+      "Elizabeth line",
+      "N1",
+      "N472",
+      "N53",
+      "SL11"
+    ],
+    "modes": [
+      "bus",
+      "elizabeth-line"
+    ],
+    "rects": [
+      [
+        893.38,
+        497.37,
+        23.95,
+        8.74
+      ]
+    ],
+    "id": "station-woolwich"
+  },
+  {
+    "name": "Woolwich Arsenal",
+    "geo": [
+      0.069127,
+      51.490009
+    ],
+    "lines": [
+      "DLR"
+    ],
+    "modes": [
+      "dlr"
+    ],
+    "rects": [
+      [
+        846.03,
+        496.07,
+        23.77,
+        13.02
+      ]
+    ],
+    "id": "station-woolwicharsenal"
+  }
+]

@@ -29,3 +29,15 @@
 ## 地圖清晰度
 
 地鐵圖以 inline SVG 呈現，不使用點陣圖片。保留原圖路線、站名與版權資訊；縮放時更新 SVG 的實際顯示尺寸，不以 CSS scale 放大快取圖層；標記使用百分比座標並維持固定按鈕尺寸。移除縮放平面的 `will-change`。更新原 PDF 時，先安裝 PyMuPDF 並執行 `python3 convert_map.py /path/to/standard-tube-map.pdf`，再執行 `python3 build.py`。
+
+## 搜尋定位
+
+- 搜尋車站全名會自動定位，也可點建議結果或按 Enter。黃色框標示原 PDF 中的站名位置；涵蓋地鐵、DLR、Overground、Elizabeth line 與 Tram。
+- 已收錄地區會保留原本的居住、旅行與治安備註，另列最近五個、直線距離 5 公里內的 TfL 車站。直線距離由地區的代表定位點計算，不是房源的步行距離。
+- 地鐵圖上的附近車站僅作交通定位，不畫不可靠的行政區邊界。沒有鄰近車站的目的地會切到英國旅行方位圖。
+- 其他英國地區／小鎮可用英文名稱按「搜尋定位」，透過 Photon 查詢 OpenStreetMap。重名結果需選擇；不會自行新增居住推薦或治安評等。線上查詢有 12 秒逾時及取消過期結果機制；本機車站／已收錄地點不依賴線上服務。
+- `search.js`：搜尋、附近車站、地圖定位與搜尋說明互動；由 `build.py` 內嵌。
+- `stations.json`：2026-10-10 TfL API 車站資料快照與原圖站名框，共 455 個去重車站。
+- `build_station_index.py`：從 TfL 回應與原 PDF 重建索引，需 PyMuPDF。例：`python3 build_station_index.py /path/to/standard-tube-map.pdf /path/to/tfl-stops.json`。
+
+資料來源：[TfL API](https://api.tfl.gov.uk/StopPoint/Mode/tube,dlr,overground,elizabeth-line,tram?stopTypes=NaptanMetroStation,NaptanRailStation)、[Photon](https://github.com/komoot/photon)、[OpenStreetMap](https://www.openstreetmap.org/copyright)。
