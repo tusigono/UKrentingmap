@@ -18,7 +18,7 @@ header{padding:7px 18px;min-height:52px;align-items:center;gap:12px}header .eyeb
 <script>
 const DATA=__DATA__;
 const TYPES={first:['優先找房','#157b59'],consider:['條件式考慮','#c0882b'],caution:['找房非優先','#bb5c48'],trip:['旅行／短住','#7560b8'],gateway:['接車站／機場','#3475b8']};
-const $=id=>document.getElementById(id);let favorites=[];try{favorites=JSON.parse(localStorage.getItem('uk-travel-favorites')||'[]')}catch{};let popupOpen=false,lastDragTime=-1000;let selected='ealing',filter='all',view='tube',showLabels=false,scale=1,tx=0,ty=0,pw=1190.55,ph=724,modalLast=null;
+const $=id=>document.getElementById(id);let favorites=[];try{favorites=JSON.parse(localStorage.getItem('uk-travel-favorites')||'[]')}catch{};favorites=Array.isArray(favorites)?favorites.filter(id=>DATA.some(p=>p.id===id)):[];let popupOpen=false,lastDragTime=-1000;let selected='ealing',filter='all',view='tube',showLabels=false,scale=1,tx=0,ty=0,pw=1190.55,ph=724,modalLast=null;
 const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function filtered(){const q=$('search').value.trim().toLowerCase();return DATA.filter(p=>(filter==='all'||(filter==='safety'?p.safetyFlag:p.kind===filter))&&(!$('onlyFav').checked||favorites.includes(p.id))&&(!q||[p.name,p.zh,p.area,p.reason,p.life,p.travel,p.safety,...p.tags].join(' ').toLowerCase().includes(q)))}
 function num(p){return DATA.indexOf(p)+1}function isFav(id){return favorites.includes(id)}

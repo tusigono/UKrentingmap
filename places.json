@@ -1195,48 +1195,6 @@
     ]
   },
   {
-    "id": "birmingham",
-    "name": "Birmingham",
-    "zh": "伯明罕",
-    "kind": "consider",
-    "area": "其他城市",
-    "reason": "曾討論的城市候選；都市機能完整，但這次倫敦近郊與南英格蘭旅行清單較適合南部基地。",
-    "life": "Edgbaston／Five Ways／Brindleyplace 是妳曾看過房源周邊；要按完整地址確認夜間回家路線與房屋條件。",
-    "travel": "進倫敦查 New Street → Euston；Edgbaston Village、Five Ways、Brindleyplace、Centenary Square 這四個房源列表名稱需區分 tram stop 與 Five Ways railway station。",
-    "tube": null,
-    "geo": [
-      -1.899,
-      52.486
-    ],
-    "budget": "",
-    "source": "https://www.westmidlandsmetro.com/",
-    "tags": [
-      "城市候選",
-      "需另比較"
-    ]
-  },
-  {
-    "id": "manchester",
-    "name": "Manchester",
-    "zh": "曼徹斯特",
-    "kind": "consider",
-    "area": "其他城市",
-    "reason": "曾討論的城市候選；適合城市生活與英格蘭北部旅行，這次南部小鎮行程較遠。",
-    "life": "若選這裡，應把旅行重心改為英格蘭北部；目前不作這次優先找房基地。",
-    "travel": "進倫敦查 Piccadilly → Euston；去 Bath／Canterbury 等要更多旅行時間。",
-    "tube": null,
-    "geo": [
-      -2.245,
-      53.48
-    ],
-    "budget": "",
-    "source": "https://www.avantiwestcoast.co.uk/",
-    "tags": [
-      "城市候選",
-      "北部旅行"
-    ]
-  },
-  {
     "id": "soho",
     "name": "Soho 夜生活街道",
     "zh": "蘇活",
