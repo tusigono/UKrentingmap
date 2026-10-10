@@ -3,7 +3,7 @@
     "id": "ealing",
     "name": "Ealing Broadway",
     "zh": "伊靈百老匯",
-    "kind": "first",
+    "kind": "consider",
     "area": "西倫敦",
     "reason": "兼顧倫敦生活、綠地和各方向旅行，是妳的倫敦找房首選。",
     "life": "先找車站、購物中心、Walpole Park 與 Haven Green 步行生活圈；以車站步行 10–15 分鐘內為目標。",
@@ -37,7 +37,7 @@
     "id": "reading",
     "name": "Reading",
     "zh": "雷丁",
-    "kind": "first",
+    "kind": "consider",
     "area": "倫敦以西",
     "reason": "偏重省租金與西部旅行時，把它排在第一位；城市活動密度低於倫敦。",
     "life": "先找 Reading 主站、Forbury Gardens、Abbey Quarter 和市中心東側；步行到站與超市。",
@@ -1663,9 +1663,9 @@
     "zh": "海布里",
     "kind": "consider",
     "area": "北倫敦",
-    "reason": "可比較兼顧住宅街、餐廳與交通的房源。",
-    "life": "圖上以 Highbury & Islington 代表定位。查站到家是否有明亮大路，夜間不依賴穿公園捷徑。",
-    "travel": "Victoria、Mildmay、Windrush 與 National Rail；查實際站距。",
+    "reason": "靠 Highbury & Islington 的合適獨住物件值得前排比較；Victoria 快速進市中心，也方便轉乘遊倫敦。",
+    "life": "優先找常用車站步行約 10–15 分鐘內、屋況與晚歸路線合適的住所。靠 Arsenal 的房源另按 Piccadilly 評估；不要求靠公園。",
+    "travel": "Highbury & Islington 有 Victoria、Mildmay、Windrush 與 National Rail。到 Oxford Circus 成人刷卡離峰 £3.10、兩次往返 £6.20；去海德公園可在 Oxford Circus 轉 Central 到 Marble Arch。Arsenal 可搭 Piccadilly 直達 Hyde Park Corner／Heathrow。",
     "tube": [
       50.54,
       31.92
@@ -1674,14 +1674,14 @@
       -0.104,
       51.546
     ],
-    "budget": "",
-    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "budget": "找房目標：Studio 約 £1,450–1,900；一房先找 £1,800–2,000／月。核心區、新大樓或短租可能超預算；帳單與半年租期另確認。",
+    "source": "https://www.zoopla.co.uk/to-rent/flats/1-bedroom/london/highbury/",
     "tags": [
       "Victoria",
       "Mildmay",
       "Windrush"
     ],
-    "safety": "圖上以 Highbury & Islington 代表定位。查站到家是否有明亮大路，夜間不依賴穿公園捷徑。",
+    "safety": "確認站到家能沿明亮街道，不需穿公園；Emirates 球賽日有活動人潮與噪音，查是否住在球迷路線或酒吧上方。人潮不等於犯罪。",
     "safetyFlag": false,
     "safetyUpdated": "2026-10-09",
     "safetySources": [
@@ -1697,21 +1697,25 @@
     "zh": "馬斯韋爾山",
     "kind": "consider",
     "area": "北倫敦",
-    "reason": "可比較住宅生活，但沒有直接位於商圈的地鐵站；依賴巴士是否符合妳需求要先想清楚。",
-    "life": "原地鐵圖未標此生活圈，點選後切到地理方位。查冬季晚歸的巴士班次與下車後路線。",
-    "travel": "通常搭巴士接地鐵；不要只用最近地鐵站的直線距離估旅行時間。",
-    "tube": null,
+    "reason": "巴士接地鐵增加費用與時間，較後順位；屋況好的獨住物件有明顯租金優勢才考慮。",
+    "life": "優先查巴士站距、超市與晚歸路線。公園是加分項，不必為靠公園犧牲交通；若能步行到地鐵，按實際地址重新比較。",
+    "travel": "Broadway 通常搭 43／134 巴士接 Highgate Northern line，再依目的地轉線。Highgate 到 Oxford Circus 離峰 £3.30；按十二月已公告巴士 £1.85 計，接駁單程 £5.15、兩次離峰往返合計 £10.30。去海德公園可於 Tottenham Court Road 轉 Central 到 Marble Arch。",
+    "tube": [
+      46.5,
+      21.5
+    ],
     "geo": [
       -0.144,
       51.591
     ],
-    "budget": "",
-    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "budget": "找房目標：Studio 約 £1,250–1,550；一房約 £1,600–1,900／月。非平均租金、非即時報價，半年租期與帳單另確認。",
+    "source": "https://www.zoopla.co.uk/to-rent/property/1-bedroom/london/muswell-hill/",
     "tags": [
       "巴士接駁",
-      "住宅生活"
+      "Northern",
+      "區域示意"
     ],
-    "safety": "原地鐵圖未標此生活圈，點選後切到地理方位。查冬季晚歸的巴士班次與下車後路線。",
+    "safety": "查冬季晚歸巴士班次、下車後坡道與照明、門禁；不要把公園或樹林當必要回家捷徑。",
     "safetyFlag": false,
     "safetyUpdated": "2026-10-09",
     "safetySources": [
@@ -1719,7 +1723,9 @@
         "title": "查完整地址的警方資訊",
         "url": "https://www.met.police.uk/area/your-area/"
       }
-    ]
+    ],
+    "approx": true,
+    "mapNote": "Muswell Hill｜區域示意。原圖沒有此地區的地鐵站，標記表示約略方位；到 Highgate／East Finchley 通常要步行或搭巴士，實際時間依住所查詢。"
   },
   {
     "id": "hampstead",
@@ -1827,21 +1833,25 @@
     "zh": "布萊克希斯",
     "kind": "consider",
     "area": "東南倫敦",
-    "reason": "可比較偏住宅的生活圈，較適合願意搭 National Rail 的妳。",
-    "life": "原地鐵圖沒有 Blackheath 車站，點選後切到地理方位。查晚歸能沿明亮街道回家，不依賴穿越大片綠地。",
-    "travel": "Blackheath National Rail；進倫敦查目的站與班次。",
-    "tube": null,
+    "reason": "可作租金比較，但進市中心後轉地鐵的成本較高；房租有足夠優勢才考慮。",
+    "life": "以 Blackheath 火車站附近作找房範圍，確認超市、屋況與站距。公園不是選房門檻；圖上位置僅供對照，實際步行依完整地址查詢。",
+    "travel": "Blackheath 在 Zone 3，搭 National Rail 到 London Bridge 國鐵站，成人刷卡離峰單程 £3.70；國鐵轉地鐵到 Oxford Circus £5.40。去回皆離峰分別 £7.40／£10.80，不含其他搭乘。2026-10-10 查詢。",
+    "tube": [
+      68,
+      66.5
+    ],
     "geo": [
       0.009,
       51.466
     ],
     "budget": "",
-    "source": "https://tfl.gov.uk/plan-a-journey/",
+    "source": "https://api.tfl.gov.uk/StopPoint/910GBLKHTH/FareTo/940GZZLUOXC",
     "tags": [
       "National Rail",
-      "住宅生活"
+      "Zone 3",
+      "區域示意"
     ],
-    "safety": "原地鐵圖沒有 Blackheath 車站，點選後切到地理方位。查晚歸能沿明亮街道回家，不依賴穿越大片綠地。",
+    "safety": "查冬季夜間從火車站到家的照明與入口，不依賴穿越公園或偏僻小徑。區域標記不是安全評等，逐地址確認。",
     "safetyFlag": false,
     "safetyUpdated": "2026-10-09",
     "safetySources": [
@@ -1849,7 +1859,9 @@
         "title": "查完整地址的警方資訊",
         "url": "https://www.met.police.uk/area/your-area/"
       }
-    ]
+    ],
+    "mapNote": "Blackheath｜Zone 3｜National Rail。此標記是原圖外補上的區域示意，沒有地鐵站；不表示與 Lewisham 有步行轉乘通道。",
+    "approx": true
   },
   {
     "id": "wimbledon",
@@ -2016,6 +2028,76 @@
       {
         "title": "警方街頭竊盜行動",
         "url": "https://news.met.police.uk/news/met-officers-target-phone-thieves-in-friday-night-operation-508705"
+      }
+    ]
+  },
+  {
+    "id": "queens-park",
+    "name": "Queen’s Park",
+    "zh": "女王公園",
+    "kind": "consider",
+    "area": "西北倫敦",
+    "tube": [
+      24.7,
+      36.2
+    ],
+    "geo": [
+      -0.204,
+      51.534
+    ],
+    "reason": "靠 Queen’s Park 站可用 Zone 2 票價直達 West End，值得比較租金、屋況與站距；不必住公園附近。",
+    "life": "先找 Queen’s Park 站步行約 10–15 分鐘內的獨住物件，確認超市、門禁和晚歸路線。Salusbury Road 可作採買參考；相鄰地區房源按真正最近的站評估。",
+    "travel": "Bakerloo 直達 Oxford Circus、Piccadilly Circus、Waterloo；Lioness 接 Euston。到 Oxford Circus 成人刷卡離峰 £3.10、兩次往返 £6.20。去海德公園可到 Paddington 後步行，或 Oxford Circus 轉 Central 到 Marble Arch。",
+    "budget": "找房目標：Studio 約 £1,300–1,700；一房約 £1,750–2,000／月。非平均租金或空房保證，帳單與半年租期另確認。",
+    "source": "https://www.zoopla.co.uk/to-rent/flats/studio/london/queens-park/",
+    "tags": [
+      "Bakerloo",
+      "Lioness",
+      "Zone 2"
+    ],
+    "safety": "按完整地址區分 Brent 與 Westminster 的同名警方區，查站到家照明、入口與門禁；不要以靠公園或相同地名概括安全。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-10",
+    "safetySources": [
+      {
+        "title": "查完整地址的警方資訊",
+        "url": "https://www.met.police.uk/area/your-area/"
+      }
+    ]
+  },
+  {
+    "id": "acton",
+    "name": "Acton",
+    "zh": "阿克頓",
+    "kind": "consider",
+    "area": "西倫敦",
+    "tube": [
+      18.6,
+      41.6
+    ],
+    "geo": [
+      -0.266756,
+      51.51718
+    ],
+    "reason": "靠 Elizabeth／Central 的物件若屋況合適、租金較低，可排前面；不能只憑 Acton 地名判斷交通。",
+    "life": "圖上以 Acton Main Line 為代表；Main Line、North／East／West Acton、Acton Town、Acton Central 是不同交通生活圈。優先查常用站步行距離、超市、屋況與門禁，附近公園不是門檻。",
+    "travel": "Main Line 的 Elizabeth 直達 Paddington、West End；North／East／West Acton 的 Central 直達 Lancaster Gate／Marble Arch；Acton Town 有 Piccadilly／District，Piccadilly 直達 Hyde Park Corner。Acton Central 是 Mildmay，進 West End 通常要轉乘。Main Line 到 Tottenham Court Road 離峰 £3.30、兩次往返 £6.60。",
+    "budget": "找房目標：Studio 約 £1,350–1,650；一房約 £1,550–1,950／月。排除 house share、僅限首月優惠與超預算新樓；半年租期及帳單另確認。",
+    "source": "https://www.zoopla.co.uk/to-rent/property/1-bedroom/london/acton/",
+    "tags": [
+      "Elizabeth",
+      "Central",
+      "Piccadilly",
+      "District",
+      "Mildmay"
+    ],
+    "safety": "逐址查夜間站到家路線、入口及門禁；靠 A40／Western Avenue 加查車流與隔音。避開必須穿工地旁、停車場、偏僻小徑或後巷的回家路線。",
+    "safetyFlag": false,
+    "safetyUpdated": "2026-10-10",
+    "safetySources": [
+      {
+        "title": "Ealing 警方區列表",
+        "url": "https://www.met.police.uk/area/your-area/met/ealing/"
       }
     ]
   }
