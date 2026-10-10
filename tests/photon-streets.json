@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 7976023,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "Culverden Road",
+        "locality": "Carpenders Park",
+        "district": "Watford Rural",
+        "city": "Three Rivers",
+        "county": "Hertfordshire",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "WD19 7RQ",
+        "countrycode": "GB",
+        "extent": [
+          -0.4045542,
+          51.6279311,
+          -0.4024766,
+          51.6277189
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4035155,
+          51.6278262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 31461371,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "Culverden Road",
+        "district": "Balham",
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SW12 9LP",
+        "countrycode": "GB",
+        "extent": [
+          -0.1434704,
+          51.4397594,
+          -0.1429938,
+          51.4386344
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1432221,
+          51.4392012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 36282829,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "Culverden Park Road",
+        "locality": "Royal Wells Park",
+        "district": "St James",
+        "city": "Tunbridge Wells",
+        "county": "Kent",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "TN4 9QR",
+        "countrycode": "GB",
+        "extent": [
+          0.2567464,
+          51.1422403,
+          0.2600923,
+          51.1384138
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2571982,
+          51.1396548
+        ]
+      }
+    }
+  ]
+}

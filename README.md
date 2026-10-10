@@ -41,3 +41,19 @@
 - `build_station_index.py`：從 TfL 回應與原 PDF 重建索引，需 PyMuPDF。例：`python3 build_station_index.py /path/to/standard-tube-map.pdf /path/to/tfl-stops.json`。
 
 資料來源：[TfL API](https://api.tfl.gov.uk/StopPoint/Mode/tube,dlr,overground,elizabeth-line,tram?stopTypes=NaptanMetroStation,NaptanRailStation)、[Photon](https://github.com/komoot/photon)、[OpenStreetMap](https://www.openstreetmap.org/copyright)。
+
+## 街道與郵遞區號搜尋
+
+街道／地址不再被結果類型篩選排除。街名有精確同名結果時保留同名選項，顯示所在市區與郵遞區號供使用者核對；搜尋偏向倫敦但保留其他英國結果。
+
+郵遞區號獨立透過 [Postcodes.io](https://postcodes.io/docs/overview/) 查詢，接受大小寫與空白變化：
+
+- 完整碼（SW12 9LP）：郵遞區號代表座標。
+- 分區（SW12）：官方 API 的 outcode 代表座標。
+- 區段／部分碼（SW12 9、SW12 9L）：前綴搜尋返回最多 100 個有效座標的平均位置。此處不是整區中心、邊界或房源門口，說明面板明確標示其限制。
+
+完整碼與街道定位仍以附近 TfL 車站呈現在示意圖，距離為直線距離。
+
+執行 `node tests/search.cjs` 驗證格式解析、同名街道保留、前綴定位限制、完整碼與不存在郵碼處理。測試使用精簡公開 Photon 回應，無需連線。
+
+輸入後停頓 800 毫秒會自動搜尋（線上查詢至少四字元）；也可按 Enter 或搜尋定位。換字或清除輸入會取消舊請求，選擇結果會取消待執行查詢。
